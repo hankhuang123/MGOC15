@@ -1,0 +1,504 @@
+Ticker,Company Name,Industry,Market Cap,1 Yr,3 Yr,5 Yr,Total Revenues,Gross Profit Margin,EBIT Margin,Net Income Margin,Net Debt/EBITDA,P/E,P/B,P/Revenue,ROIC,Dividend Yield
+NYSE:MMM,3M Company,Industrials,69104.24,-29.6,-24.2,-39.7,35355.0,46.9,22.0,16.7,1.4x,11.85,4.56,1.96,22.0,5.0
+NYSE:AOS,A. O. Smith Corporation,Industrials,8744.87,-32.1,27.1,2.0,3538.9,37.0,17.2,13.8,-0.6x,18.95,4.93,2.59,32.0,1.9
+NYSE:ABT,Abbott Laboratories,Health Care,191426.96,-20.7,32.6,108.9,43075.0,58.1,21.4,16.4,0.7x,27.87,5.41,4.52,17.0,1.7
+NYSE:ABBV,AbbVie Inc.,Health Care,285707.16,24.0,109.7,110.8,56197.0,71.3,37.2,20.5,2.3x,25.06,18.55,5.09,18.0,3.3
+NYSE:ACN,Accenture plc,Information Technology,168039.86,-34.8,32.1,87.3,62376.95,32.0,15.3,11.3,-0.2x,24.24,7.31,2.7,37.0,1.6
+NasdaqGS:ATVI,"Activision Blizzard, Inc.",Communication Services,59909.97,15.7,31.1,24.6,8803.0,73.7,37.9,30.7,-1.9x,22.25,3.39,6.76,27.0,0.6
+NasdaqGS:ADBE,Adobe Inc.,Information Technology,156452.8,-40.7,2.0,92.0,17606.0,87.7,34.6,27.0,-0.2x,33.32,11.14,8.98,40.0,
+NYSE:AAP,"Advance Auto Parts, Inc.",Consumer Discretionary,8643.56,-36.5,-2.7,56.9,10997.99,44.8,8.2,5.6,2.8x,15.4,2.89,0.86,13.0,2.2
+NasdaqGS:AMD,"Advanced Micro Devices, Inc.",Information Technology,104432.31,-55.0,41.2,530.1,16434.0,48.2,22.2,19.2,-0.7x,25.2,10.43,4.78,61.0,
+NYSE:AFL,Aflac Incorporated,Financials,44731.47,26.4,47.0,85.0,22106.0,41.2,25.2,19.6,0.9x,11.26,1.41,2.19,4.0,1.8
+NYSE:A,"Agilent Technologies, Inc.",Health Care,44307.18,-5.5,79.0,132.1,6445.0,54.0,22.7,18.7,1.0x,37.97,8.72,7.03,19.0,0.5
+NYSE:APD,"Air Products and Chemicals, Inc.",Materials,68429.93,3.9,40.4,111.2,10942.0,28.9,21.3,19.9,1.0x,32.38,4.94,6.25,11.0,1.9
+NasdaqGS:AKAM,"Akamai Technologies, Inc.",Information Technology,13255.53,-28.0,-2.4,29.6,3461.22,63.3,23.3,18.8,0.6x,21.45,2.99,3.96,12.0,
+NYSE:ALK,"Alaska Air Group, Inc.",Industrials,5446.42,-17.6,-36.3,-38.8,6176.0,15.2,-4.1,7.7,7.1x,11.39,1.42,0.87,-3.0,
+NYSE:ALB,Albemarle Corporation,Materials,25405.75,-6.6,206.4,81.1,3327.96,30.3,18.4,3.7,2.4x,204.58,4.51,7.55,7.0,0.7
+NYSE:ARE,"Alexandria Real Estate Equities, Inc.",Real Estate,23902.59,-32.6,-2.2,28.2,2126.41,70.7,24.9,26.9,6.8x,38.13,1.42,10.06,2.0,3.1
+NasdaqGS:ALGN,"Align Technology, Inc.",Health Care,16473.89,-67.9,-24.4,-5.1,3952.58,74.3,24.7,19.5,-1.1x,21.76,4.58,4.21,33.0,
+NYSE:ALLE,Allegion plc,Industrials,9246.55,-19.3,-12.1,40.4,2867.4,42.0,18.9,16.8,1.9x,19.71,12.23,3.3,26.0,1.4
+NasdaqGS:LNT,Alliant Energy Corporation,Utilities,13858.92,-7.4,10.1,50.4,3669.0,42.4,21.4,18.0,5.5x,20.99,2.31,3.76,4.0,2.9
+NasdaqGS:GOOGL,Alphabet Inc.,Communication Services,1145003.89,-39.1,31.7,67.5,257637.0,56.9,30.6,29.5,-1.2x,15.73,4.64,4.57,28.0,
+NasdaqGS:GOOG,Alphabet Inc.,Communication Services,1145003.89,-38.7,32.7,69.6,257637.0,56.9,30.6,29.5,-1.2x,,,,28.0,
+NYSE:MO,"Altria Group, Inc.",Consumer Staples,81920.21,4.4,16.4,-8.5,21111.0,66.0,57.0,11.7,1.9x,34.23,,3.99,44.0,7.7
+NasdaqGS:AMZN,"Amazon.com, Inc.",Consumer Discretionary,856938.95,-49.6,-9.1,43.7,469822.0,42.0,5.3,7.1,0.7x,25.92,6.19,1.81,10.0,
+NYSE:AMCR,Amcor plc,Materials,17426.77,3.2,24.3,,13588.0,20.0,11.0,7.0,3.1x,19.31,4.03,1.34,12.0,4.0
+NYSE:AEE,Ameren Corporation,Utilities,22987.79,2.5,25.2,72.4,6119.0,48.9,24.0,16.2,5.2x,23.16,2.36,3.72,4.0,2.5
+NasdaqGS:AAL,American Airlines Group Inc.,Industrials,8266.74,-29.2,-55.5,-74.9,29882.0,6.5,-17.3,-6.7,-11.9x,,,0.27,-10.0,
+NasdaqGS:AEP,"American Electric Power Company, Inc.",Utilities,48791.36,10.4,11.2,52.9,16792.0,45.6,21.1,14.8,5.8x,19.14,2.13,2.83,4.0,3.2
+NYSE:AXP,American Express Company,Financials,110403.63,-8.5,23.8,59.8,43799.0,61.7,,18.4,,14.75,5.07,2.66,,1.2
+NYSE:AIG,"American International Group, Inc.",Financials,46986.06,13.8,34.7,22.2,52043.0,37.5,21.5,18.0,1.8x,5.84,0.79,1.04,3.0,2.0
+NYSE:AMT,American Tower Corporation,Real Estate,98643.2,-25.7,-1.7,64.7,9356.9,71.3,38.0,27.4,8.5x,37.43,19.0,10.22,6.0,2.5
+NYSE:AWK,"American Water Works Company, Inc.",Utilities,27714.2,-17.9,30.0,81.5,3930.0,54.8,32.4,32.1,5.7x,21.96,3.79,7.06,5.0,1.6
+NYSE:AMP,"Ameriprise Financial, Inc.",Financials,33135.12,5.0,98.6,105.7,13443.0,56.4,31.1,20.5,-1.1x,13.54,6.07,2.72,3.0,1.4
+NYSE:ABC,AmerisourceBergen Corporation,Health Care,33486.42,26.3,103.9,95.8,221101.1,3.3,1.3,0.7,1.4x,21.49,143.41,0.16,21.0,1.1
+NYSE:AME,"AMETEK, Inc.",Industrials,32087.31,-4.3,43.0,99.5,5546.51,34.5,23.6,17.9,1.5x,32.88,4.71,5.82,13.0,0.6
+NasdaqGS:AMGN,Amgen Inc.,Health Care,140139.24,20.4,19.1,75.1,25979.0,75.2,35.9,22.7,2.0x,25.55,21.89,5.76,23.0,2.7
+NYSE:APH,Amphenol Corporation,Information Technology,45310.5,-12.0,45.1,82.3,10876.3,31.3,19.9,14.6,1.5x,30.33,7.24,4.19,20.0,0.8
+NasdaqGS:ADI,"Analog Devices, Inc.",Information Technology,83539.81,-4.9,45.9,102.8,8444.12,64.9,27.7,15.2,1.2x,56.39,2.29,8.48,5.0,1.7
+NasdaqGS:ANSS,"ANSYS, Inc.",Information Technology,21045.44,-39.8,-6.1,63.7,1906.72,89.7,27.2,23.8,0.3x,46.82,4.69,11.04,11.0,
+NYSE:AON,Aon plc,Financials,62084.84,0.6,47.7,134.3,12193.0,44.9,17.3,10.3,4.0x,54.08,60.76,5.53,15.0,0.7
+NasdaqGS:APA,APA Corporation,Energy,15008.17,76.4,89.5,21.9,8025.0,63.3,35.9,12.1,1.7x,18.02,,2.18,26.0,0.5
+NasdaqGS:AAPL,Apple Inc.,Information Technology,2066941.77,-26.4,80.7,223.0,378323.0,43.0,30.9,26.6,-0.6x,21.6,29.52,5.69,55.0,0.7
+NasdaqGS:AMAT,"Applied Materials, Inc.",Information Technology,82202.33,-37.5,64.3,103.1,24172.0,47.7,32.1,27.1,0.0x,13.56,7.24,3.64,56.0,1.0
+NYSE:APTV,Aptiv PLC,Consumer Discretionary,25233.53,-43.5,-1.7,12.3,15618.0,15.6,7.7,3.8,0.7x,48.01,3.02,1.61,11.0,
+NasdaqGS:ACGL,Arch Capital Group Ltd.,Financials,23056.03,41.2,46.4,107.5,9249.98,36.3,23.8,23.3,0.9x,12.0,1.86,2.66,6.0,
+NYSE:ADM,Archer-Daniels-Midland Company,Consumer Staples,51005.68,40.0,116.1,166.5,85249.0,7.0,3.4,3.2,2.4x,19.38,2.31,0.61,8.0,1.6
+NYSE:ANET,"Arista Networks, Inc.",Information Technology,37081.24,-15.6,138.6,106.0,2948.04,63.8,31.4,28.5,-3.4x,46.14,9.38,12.62,23.0,
+NYSE:AJG,Arthur J. Gallagher & Co.,Financials,39751.77,12.4,106.5,224.4,7974.4,36.9,17.3,11.4,3.2x,43.14,4.62,4.79,8.0,1.0
+NYSE:AIZ,"Assurant, Inc.",Financials,6607.1,-18.3,0.9,37.3,10187.6,10.8,9.0,13.4,0.2x,12.26,1.27,0.73,15.0,2.1
+NYSE:T,AT&T Inc.,Communication Services,131193.13,5.8,-23.6,-13.5,134038.0,54.9,25.9,15.0,3.6x,6.66,0.79,0.78,8.0,11.5
+NYSE:ATO,Atmos Energy Corporation,Utilities,15803.66,9.6,7.9,46.6,3505.8,48.2,24.8,19.9,5.6x,21.17,1.83,4.2,5.0,2.3
+NasdaqGS:ADSK,"Autodesk, Inc.",Information Technology,40320.47,-33.5,1.9,78.3,4386.0,91.7,16.4,11.3,1.6x,83.42,48.02,9.36,20.0,
+NasdaqGS:ADP,"Automatic Data Processing, Inc.",Information Technology,99085.76,-1.3,49.0,125.9,15696.6,44.9,22.8,17.5,0.4x,36.97,19.89,6.43,43.0,1.6
+NYSE:AZO,"AutoZone, Inc.",Consumer Discretionary,46279.52,17.6,107.0,246.7,16568.39,51.6,19.6,14.6,2.5x,20.68,,2.92,49.0,
+NYSE:AVB,"AvalonBay Communities, Inc.",Real Estate,22566.08,-33.9,-14.6,7.1,2310.13,63.0,27.1,43.5,5.7x,22.47,2.06,9.75,3.0,3.9
+NYSE:AVY,Avery Dennison Corporation,Materials,14655.39,-15.1,45.2,71.9,8408.3,27.5,12.5,8.8,2.5x,20.5,7.77,1.78,19.0,1.5
+NasdaqGS:BKR,Baker Hughes Company,Energy,29573.34,26.0,27.2,8.9,20502.0,19.7,7.8,-1.1,1.0x,,1.81,1.19,7.0,2.5
+NYSE:BALL,Ball Corporation,Materials,16053.88,-46.2,-18.7,41.4,13811.0,19.7,10.4,6.4,3.6x,19.3,4.5,1.21,11.0,1.4
+NYSE:BAC,Bank of America Corporation,Financials,265702.96,-23.8,0.7,25.1,93707.0,,,34.1,,9.28,1.09,3.0,,2.4
+NYSE:BBWI,"Bath & Body Works, Inc.",Consumer Discretionary,9625.39,-38.4,199.2,2.3,7882.0,48.9,25.5,16.9,1.7x,10.7,,1.44,69.0,1.1
+NYSE:BAX,Baxter International Inc.,Health Care,25695.04,-39.6,-36.4,-16.0,12784.0,41.1,16.3,10.0,5.2x,20.15,2.82,2.0,8.0,2.1
+NYSE:BDX,"Becton, Dickinson and Company",Health Care,72289.35,5.2,-0.1,30.2,18534.0,44.6,12.0,9.5,3.5x,44.17,3.0,3.67,5.0,1.3
+NYSE:BRK.B,Berkshire Hathaway Inc.,Financials,681920.93,3.3,36.4,55.8,276203.0,41.6,41.6,32.5,-0.2x,,,,14.0,
+NYSE:BBY,"Best Buy Co., Inc.",Consumer Discretionary,17747.62,-17.5,0.6,36.1,51761.0,22.5,5.8,4.7,0.3x,8.15,6.04,0.38,66.0,3.7
+NasdaqGS:BIIB,Biogen Inc.,Health Care,39876.87,15.4,-6.7,-13.1,10981.7,80.8,31.2,14.2,0.8x,26.63,3.74,3.76,19.0,
+NYSE:BIO,"Bio-Rad Laboratories, Inc.",Health Care,12540.75,-44.3,13.6,76.2,2922.55,56.9,19.3,145.6,-0.9x,2.99,0.92,4.29,3.0,
+NasdaqGS:TECH,Bio-Techne Corporation,Health Care,13009.64,-35.7,52.8,162.7,1029.58,68.2,26.4,20.4,0.2x,64.58,7.65,12.57,14.0,0.4
+NYSE:BLK,"BlackRock, Inc.",Financials,106433.09,-20.4,51.6,56.7,19374.0,50.7,38.6,30.5,0.0x,18.54,2.85,5.57,6.0,2.3
+NasdaqGS:BKNG,Booking Holdings Inc.,Consumer Discretionary,78171.48,-16.0,-1.9,16.0,10958.0,80.1,24.1,10.6,-0.8x,71.54,13.4,7.55,31.0,
+NYSE:BWA,BorgWarner Inc.,Consumer Discretionary,9424.7,-9.2,-2.4,-14.3,14838.0,19.2,9.8,3.6,1.2x,17.97,1.39,0.65,13.0,1.7
+NYSE:BXP,"Boston Properties, Inc.",Real Estate,10593.48,-38.6,-44.4,-37.5,2865.88,63.7,34.0,17.6,7.7x,21.32,1.81,3.68,5.0,5.8
+NYSE:BSX,Boston Scientific Corporation,Health Care,66273.04,8.9,2.3,86.6,11888.0,68.4,15.3,8.8,2.6x,67.06,3.97,5.54,7.0,
+NYSE:BMY,Bristol-Myers Squibb Company,Health Care,159703.45,19.0,22.9,36.8,46385.0,79.9,21.6,15.1,1.4x,23.06,4.36,3.45,13.0,2.8
+NasdaqGS:AVGO,Broadcom Inc.,Information Technology,233652.68,-13.3,96.6,159.3,28501.0,74.5,34.7,27.5,1.9x,31.88,9.98,8.07,17.0,2.8
+NYSE:BR,"Broadridge Financial Solutions, Inc.",Information Technology,15781.11,-25.3,14.3,61.0,5373.9,28.0,12.9,10.0,3.7x,29.35,8.96,2.9,10.0,1.8
+NYSE:BRO,"Brown & Brown, Inc.",Financials,16135.18,-18.4,47.5,131.1,3050.3,46.3,28.1,19.2,1.5x,27.52,3.83,5.27,13.0,0.7
+NYSE:BF.B,Brown-Forman Corporation,Consumer Staples,31484.12,-8.9,1.6,30.5,3749.0,60.4,29.9,21.5,1.3x,39.1,12.48,8.39,24.0,1.1
+NasdaqGS:CHRW,"C.H. Robinson Worldwide, Inc.",Industrials,10777.48,-13.1,25.2,15.0,23102.14,7.0,4.7,3.7,1.7x,14.51,5.85,0.53,27.0,2.3
+NasdaqGS:CDNS,"Cadence Design Systems, Inc.",Information Technology,44066.12,-13.8,131.6,284.1,2988.24,89.7,26.1,23.3,-0.7x,64.26,16.22,14.7,33.0,
+NasdaqGS:CZR,"Caesars Entertainment, Inc.",Consumer Discretionary,8925.95,-55.5,-30.2,25.5,9570.0,51.4,17.8,-10.6,9.2x,,1.99,0.92,5.0,
+NYSE:CPT,Camden Property Trust,Real Estate,11918.36,-35.6,15.3,41.8,1165.12,61.6,20.4,26.1,3.9x,37.78,3.0,9.79,3.0,3.0
+NYSE:CPB,Campbell Soup Company,Consumer Staples,16994.78,34.8,26.1,38.7,8302.0,31.5,17.2,11.1,2.8x,18.67,5.12,2.07,15.0,2.6
+NYSE:COF,Capital One Financial Corporation,Financials,35482.7,-34.6,-4.9,1.8,32379.0,,,38.3,,3.45,0.68,1.27,,2.2
+NYSE:CAH,"Cardinal Health, Inc.",Health Care,20150.24,54.1,69.0,50.6,171286.0,3.8,1.0,0.3,1.0x,39.95,21.34,0.13,13.0,2.5
+NYSE:KMX,"CarMax, Inc.",Consumer Discretionary,9621.8,-53.2,-30.5,-5.1,33050.78,11.0,2.6,1.7,16.0x,17.04,1.75,0.29,4.0,
+NYSE:CCL,Carnival Corporation & plc,Consumer Discretionary,9995.14,-59.9,-84.0,-86.8,12169.0,31.3,-32.4,-50.1,-19.1x,,1.44,0.78,-10.0,
+NYSE:CARR,Carrier Global Corporation,Industrials,34495.79,-22.7,,,20613.0,29.1,12.5,8.1,2.5x,22.06,5.26,1.74,15.0,1.2
+NYSE:CTLT,"Catalent, Inc.",Health Care,8100.16,-64.8,-20.1,9.6,4483.0,34.2,17.3,13.5,3.0x,13.9,1.8,1.73,9.0,
+NYSE:CAT,Caterpillar Inc.,Industrials,124669.27,18.6,74.6,72.0,50971.0,25.9,16.2,12.7,2.7x,20.25,7.79,2.56,15.0,1.8
+BATS:CBOE,"Cboe Global Markets, Inc.",Financials,13310.13,-2.2,9.7,8.1,3494.8,42.2,23.4,15.1,1.1x,25.5,3.71,3.84,15.0,1.4
+NYSE:CBRE,"CBRE Group, Inc.",Real Estate,23788.32,-29.1,25.6,77.7,27746.04,22.2,5.6,6.6,0.9x,14.23,2.94,0.93,12.0,
+NasdaqGS:CDW,CDW Corporation,Information Technology,24178.12,-11.7,29.4,172.0,20820.8,17.1,7.1,4.7,4.4x,25.37,34.11,1.19,17.0,1.0
+NYSE:CE,Celanese Corporation,Materials,11085.69,-37.8,-11.3,6.4,8537.0,31.4,23.9,22.1,1.5x,5.99,2.64,1.33,21.0,2.7
+NYSE:CNC,Centene Corporation,Health Care,46438.96,-0.5,30.4,62.6,118114.0,16.5,3.1,1.1,1.9x,35.97,1.78,0.4,9.0,
+NYSE:CNP,"CenterPoint Energy, Inc.",Utilities,18879.77,10.0,19.5,24.6,8352.0,39.9,16.4,17.8,5.8x,31.9,2.19,2.13,4.0,2.2
+NYSE:CDAY,Ceridian HCM Holding Inc.,Information Technology,9853.11,-38.6,-5.5,,1024.2,42.6,-2.8,-7.4,66.3x,,4.38,9.42,-1.0,
+NYSE:CF,"CF Industries Holdings, Inc.",Materials,16715.34,22.3,92.8,128.5,6538.0,36.5,33.3,14.0,0.7x,20.09,5.52,2.8,23.0,1.4
+NYSE:CRL,"Charles River Laboratories International, Inc.",Health Care,11086.46,-42.2,42.6,99.1,3540.16,37.7,17.7,11.0,3.0x,28.67,4.34,3.1,11.0,
+NasdaqGS:CHTR,"Charter Communications, Inc.",Communication Services,52618.92,-48.0,-30.1,0.9,51682.0,45.0,21.6,9.0,4.5x,13.86,4.17,1.21,8.0,
+NYSE:CVX,Chevron Corporation,Energy,347068.78,58.5,71.6,78.5,161263.0,42.8,13.3,9.7,0.7x,22.05,2.49,2.21,10.0,3.0
+NYSE:CMG,"Chipotle Mexican Grill, Inc.",Consumer Discretionary,38462.77,-20.6,65.7,380.1,7547.06,38.5,10.9,8.7,2.3x,60.59,16.96,5.17,16.0,
+NYSE:CB,Chubb Limited,Financials,91560.09,16.0,50.4,67.0,40607.0,27.3,18.5,21.0,2.4x,11.45,1.58,2.37,8.0,1.4
+NYSE:CHD,"Church & Dwight Co., Inc.",Consumer Staples,19658.23,-20.4,18.7,71.4,5190.1,43.6,19.1,15.9,2.1x,24.28,6.05,3.8,15.0,1.3
+NasdaqGS:CINF,Cincinnati Financial Corporation,Financials,16094.1,-7.9,5.4,55.5,9630.0,39.7,38.7,30.6,-0.1x,5.66,1.25,1.71,14.0,2.5
+NasdaqGS:CTAS,Cintas Corporation,Industrials,45885.06,3.0,72.9,204.9,8376.54,46.5,20.3,15.4,1.5x,36.77,13.38,5.51,23.0,0.9
+NasdaqGS:CSCO,"Cisco Systems, Inc.",Information Technology,195710.03,-22.5,9.1,44.7,51549.0,63.3,27.3,22.9,-0.5x,17.01,5.01,3.89,22.0,3.1
+NYSE:C,Citigroup Inc.,Financials,87603.86,-22.1,-36.9,-28.7,74990.0,,,29.3,,4.46,0.49,1.23,,4.6
+NYSE:CFG,"Citizens Financial Group, Inc.",Financials,19389.37,-13.4,10.7,13.9,7058.0,,,32.9,,7.63,0.78,2.37,,4.0
+NasdaqGS:CME,CME Group Inc.,Financials,60491.88,-22.9,-6.5,35.5,4564.2,100.0,54.5,57.8,0.4x,23.07,2.2,12.88,7.0,2.2
+NYSE:CMS,CMS Energy Corporation,Utilities,18381.63,0.2,9.6,54.2,7329.0,36.1,17.9,18.5,5.3x,24.55,2.86,2.5,5.0,2.8
+NasdaqGS:CTSH,Cognizant Technology Solutions Corporation,Information Technology,29391.17,-34.5,-3.9,-14.1,18507.0,37.4,15.2,11.5,-0.3x,14.12,2.5,1.63,22.0,1.7
+NYSE:CL,Colgate-Palmolive Company,Consumer Staples,65806.53,-5.4,22.8,17.6,17421.0,59.6,21.9,12.4,1.6x,30.9,108.74,3.82,37.0,2.3
+NasdaqGS:CMCSA,Comcast Corporation,Communication Services,151189.6,-28.7,-16.9,-2.8,116385.0,67.0,17.9,12.2,2.8x,11.5,1.65,1.38,9.0,2.9
+NYSE:CMA,Comerica Incorporated,Financials,8754.17,-20.4,7.0,-6.2,3351.0,,,34.9,,8.01,1.16,2.69,,4.1
+NYSE:CAG,"Conagra Brands, Inc.",Consumer Staples,18547.17,17.5,24.5,19.5,12040.9,25.5,15.4,5.7,4.5x,16.98,2.14,1.66,9.0,3.4
+NYSE:COP,ConocoPhillips,Energy,147036.39,71.6,104.8,152.5,46660.0,49.2,27.4,17.3,0.7x,19.44,3.38,3.35,17.0,1.5
+NYSE:ED,"Consolidated Edison, Inc.",Utilities,33821.98,15.7,18.0,35.1,13676.0,56.1,19.7,9.8,5.2x,24.76,1.68,2.43,5.0,3.3
+NYSE:STZ,"Constellation Brands, Inc.",Consumer Staples,42749.92,-6.4,27.6,9.0,9557.3,51.7,32.0,1.1,3.5x,,3.87,5.12,14.0,1.4
+NasdaqGS:CEG,Constellation Energy Corporation,Utilities,28192.21,,,,19649.0,14.4,6.6,-1.0,2.2x,,,,3.0,
+NasdaqGS:CPRT,"Copart, Inc.",Industrials,29001.91,-19.7,33.9,182.0,3160.13,49.4,41.4,34.5,-0.6x,26.89,7.07,9.13,35.0,
+NYSE:GLW,Corning Incorporated,Information Technology,27015.22,-11.6,19.5,14.4,14082.0,36.5,16.3,13.5,1.5x,24.95,2.15,1.88,10.0,3.0
+NYSE:CTVA,"Corteva, Inc.",Materials,41997.84,25.6,107.1,,15655.0,41.1,16.8,11.2,-0.8x,24.09,1.68,2.76,9.0,0.9
+NasdaqGS:CSGP,"CoStar Group, Inc.",Industrials,31429.01,-2.2,29.2,160.2,1944.14,81.6,22.2,15.0,-4.7x,104.43,5.34,15.59,14.0,
+NasdaqGS:COST,Costco Wholesale Corporation,Consumer Staples,202562.3,-19.0,63.0,162.7,231028.0,12.0,3.3,2.5,-0.3x,34.5,9.44,0.88,35.0,0.8
+NYSE:CTRA,Coterra Energy Inc.,Energy,19372.64,41.4,67.1,4.5,3449.0,76.3,48.5,33.6,1.0x,10.73,1.7,3.37,9.0,2.6
+NYSE:CCI,Crown Castle Inc.,Real Estate,58738.63,-32.6,5.2,45.0,6340.0,68.6,31.9,17.3,7.4x,50.8,7.1,9.24,5.0,4.1
+NasdaqGS:CSX,CSX Corporation,Industrials,65132.62,-16.6,33.3,80.1,12522.0,53.1,41.8,30.2,2.2x,18.44,5.06,5.57,14.0,1.2
+NYSE:CMI,Cummins Inc.,Industrials,34168.33,14.1,46.4,57.5,24021.0,23.7,9.6,8.9,0.5x,16.58,4.07,1.46,16.0,2.3
+NYSE:CVS,CVS Health Corporation,Health Care,122448.58,-7.6,35.7,47.9,290912.0,17.5,4.8,2.7,3.4x,15.66,1.64,0.42,9.0,2.2
+NYSE:DHI,"D.R. Horton, Inc.",Consumer Discretionary,30713.0,-16.8,74.6,85.1,28894.2,27.6,20.2,15.7,0.5x,7.16,2.01,1.11,29.0,0.9
+NYSE:DHR,Danaher Corporation,Health Care,193215.86,-19.0,74.9,192.4,29453.0,61.3,27.7,21.8,2.0x,31.23,4.53,6.44,11.0,0.3
+NYSE:DRI,"Darden Restaurants, Inc.",Consumer Discretionary,16929.8,-4.8,36.1,63.3,9984.4,19.4,11.0,9.1,3.9x,19.0,8.36,1.72,13.0,3.4
+NYSE:DVA,DaVita Inc.,Health Care,6728.07,-34.4,-0.5,3.3,11618.8,31.4,15.2,8.4,4.7x,8.39,9.62,0.68,12.0,
+NYSE:DE,Deere & Company,Industrials,127872.21,26.6,157.7,196.0,44440.0,26.5,16.2,12.7,5.4x,23.73,7.39,2.99,11.0,0.9
+NYSE:DAL,"Delta Air Lines, Inc.",Industrials,21030.85,-15.9,-43.4,-37.8,29899.0,7.3,-7.3,0.9,-50.1x,74.68,5.39,0.7,-5.0,
+NasdaqGS:XRAY,DENTSPLY SIRONA Inc.,Health Care,6842.79,-42.1,-42.0,-49.3,4231.0,55.4,14.8,9.7,2.0x,17.03,1.39,1.64,8.0,1.4
+NYSE:DVN,Devon Energy Corporation,Energy,40209.09,50.9,188.7,85.2,13117.0,56.5,25.3,21.4,0.8x,14.68,4.4,3.11,21.0,3.3
+NasdaqGS:DXCM,"DexCom, Inc.",Health Care,43739.87,-15.6,107.1,689.3,2448.5,68.6,10.9,8.9,-1.6x,292.23,19.51,17.89,8.0,
+NasdaqGS:FANG,"Diamondback Energy, Inc.",Energy,24073.09,35.3,66.3,23.6,6398.0,87.9,48.5,34.1,1.4x,11.12,2.01,3.75,15.0,1.5
+NYSE:DLR,"Digital Realty Trust, Inc.",Real Estate,28829.86,-41.0,-7.2,4.9,4426.17,59.8,17.1,38.6,6.6x,16.88,1.65,6.4,2.0,4.7
+NYSE:DFS,Discover Financial Services,Financials,26729.68,-13.5,23.6,42.0,11869.0,95.8,,45.9,,5.49,2.28,2.47,,1.9
+NasdaqGS:DISH,DISH Network Corporation,Communication Services,7451.12,-56.7,-60.4,-70.6,17881.11,34.4,17.9,13.5,4.5x,3.7,0.48,0.41,8.0,
+NYSE:DG,Dollar General Corporation,Consumer Discretionary,55055.29,5.6,62.1,177.7,34220.45,31.6,9.4,7.0,3.6x,24.21,9.05,1.69,15.0,0.7
+NasdaqGS:DLTR,"Dollar Tree, Inc.",Consumer Discretionary,31284.33,0.7,50.4,31.8,26321.2,29.4,6.9,5.0,3.5x,24.39,4.12,1.22,10.0,
+NYSE:D,"Dominion Energy, Inc.",Utilities,51096.44,-19.1,-17.2,-7.1,13964.0,48.5,27.5,23.5,6.2x,19.24,1.95,3.55,4.0,4.2
+NYSE:DPZ,"Domino's Pizza, Inc.",Consumer Discretionary,12604.38,-37.9,21.3,92.1,4357.37,27.7,17.9,11.7,6.2x,25.58,,2.96,76.0,1.1
+NYSE:DOV,Dover Corporation,Industrials,19005.33,-24.3,23.0,82.5,7907.08,37.7,16.6,14.2,1.8x,17.49,4.66,2.46,17.0,1.5
+NYSE:DOW,Dow Inc.,Materials,35462.43,-6.6,7.6,,54968.0,19.6,15.0,11.5,1.2x,6.01,2.03,0.68,17.0,5.6
+NYSE:DTE,DTE Energy Company,Utilities,22770.5,1.2,17.4,48.5,14964.0,22.3,10.1,6.1,7.2x,28.67,2.62,1.52,4.0,3.3
+NYSE:DUK,Duke Energy Corporation,Utilities,79308.76,2.0,27.3,50.8,24201.0,49.7,24.4,16.1,5.9x,20.89,1.67,3.21,4.0,3.8
+NYSE:DD,"DuPont de Nemours, Inc.",Materials,34094.63,-13.4,13.3,-24.5,12566.0,36.6,15.1,51.5,3.1x,21.25,1.33,2.24,5.0,1.8
+NYSE:DXC,DXC Technology Company,Information Technology,6096.73,-17.7,-28.1,-66.1,16642.0,21.4,1.9,-3.7,1.7x,,1.36,0.4,3.0,
+NYSE:EMN,Eastman Chemical Company,Materials,9767.88,-30.4,13.3,2.7,10476.0,23.9,17.8,8.2,2.0x,13.03,1.84,1.05,14.0,3.5
+NYSE:ETN,Eaton Corporation plc,Industrials,62419.02,-7.2,78.4,129.1,19628.0,32.3,12.8,10.9,2.5x,29.39,3.81,3.19,9.0,1.9
+NasdaqGS:EBAY,eBay Inc.,Consumer Discretionary,22504.07,-36.5,20.0,16.6,10420.0,74.6,28.4,130.6,0.6x,109.13,2.52,2.59,13.0,1.7
+NYSE:ECL,Ecolab Inc.,Materials,41459.57,-37.1,-22.1,14.4,12733.1,40.9,14.7,8.9,3.2x,37.23,5.78,3.27,10.0,1.3
+NYSE:EIX,Edison International,Utilities,24294.87,-2.6,-3.5,24.0,14905.0,58.4,21.2,5.1,5.7x,31.85,1.74,1.62,5.0,4.2
+NYSE:EW,Edwards Lifesciences Corporation,Health Care,46128.42,-42.4,-4.1,98.6,5232.5,76.1,30.3,28.7,-0.5x,31.35,7.98,8.89,24.0,
+NasdaqGS:EA,Electronic Arts Inc.,Communication Services,33731.48,-6.8,15.0,17.7,6512.0,73.0,14.8,9.8,-0.6x,55.05,4.53,5.36,13.0,0.6
+NYSE:ELV,"Elevance Health, Inc.",Health Care,122511.38,11.8,76.1,141.9,138643.0,26.0,6.5,4.4,2.0x,20.74,3.44,0.9,15.0,0.9
+NYSE:LLY,Eli Lilly and Company,Health Care,347613.08,34.3,192.2,376.6,28318.4,75.4,29.2,19.7,1.2x,59.78,36.82,11.72,26.0,0.9
+NYSE:EMR,Emerson Electric Co.,Industrials,56809.88,5.7,35.7,57.3,17231.0,42.1,17.2,16.0,1.2x,20.98,5.57,3.09,17.0,2.1
+NasdaqGM:ENPH,"Enphase Energy, Inc.",Information Technology,36014.31,44.8,914.0,10894.2,1382.05,40.1,16.0,10.5,0.1x,259.96,82.47,25.69,14.0,
+NYSE:ETR,Entergy Corporation,Utilities,22891.91,3.6,4.6,67.0,11742.9,41.6,17.2,9.5,6.8x,20.31,1.96,1.93,4.0,3.5
+NYSE:EOG,"EOG Resources, Inc.",Energy,76078.69,56.9,81.6,43.5,19777.0,65.9,30.9,23.6,0.1x,16.21,3.42,3.8,21.0,1.6
+NYSE:EPAM,"EPAM Systems, Inc.",Information Technology,18849.47,-51.0,54.5,205.1,3758.14,33.9,14.5,12.8,-1.9x,40.21,7.49,4.93,40.0,
+NYSE:EQT,EQT Corporation,Energy,12417.17,57.6,217.2,12.9,6741.07,69.3,-14.9,-17.0,7.9x,,1.27,1.62,-6.0,0.4
+NYSE:EFX,Equifax Inc.,Industrials,23798.1,-33.1,42.1,73.3,4923.9,59.8,23.1,15.1,3.1x,32.29,6.62,4.81,12.0,0.8
+NasdaqGS:EQIX,"Equinix, Inc.",Real Estate,60615.24,-21.1,17.8,58.4,6260.03,44.5,11.9,8.0,5.6x,118.45,5.45,9.39,3.0,1.8
+NYSE:EQR,Equity Residential,Real Estate,22297.22,-32.5,-18.8,9.7,2464.0,61.5,25.2,54.1,5.8x,16.64,2.03,8.95,3.0,4.1
+NYSE:ESS,"Essex Property Trust, Inc.",Real Estate,13722.63,-37.8,-22.3,2.6,1552.28,69.0,32.1,31.5,6.2x,28.22,2.31,8.88,4.0,3.9
+NasdaqGS:ETSY,"Etsy, Inc.",Consumer Discretionary,15054.95,-45.3,170.4,485.7,2329.11,71.9,21.6,21.2,2.7x,35.25,24.2,6.54,21.0,
+NYSE:RE,"Everest Re Group, Ltd.",Financials,12974.2,23.7,28.9,69.0,11830.3,13.9,13.3,11.7,,9.57,1.28,1.1,5.0,1.9
+NasdaqGS:EVRG,"Evergy, Inc.",Utilities,14444.72,-4.9,7.5,41.2,5586.7,47.4,23.5,15.7,4.9x,16.43,1.56,2.58,5.0,3.5
+NYSE:ES,Eversource Energy,Utilities,29202.09,-5.1,7.3,53.5,9863.09,48.2,21.1,12.4,6.4x,23.68,1.98,2.92,5.0,2.9
+NasdaqGS:EXC,Exelon Corporation,Utilities,42959.47,8.3,47.3,81.8,17938.0,39.6,16.0,9.5,3.5x,24.84,1.23,1.16,2.0,3.6
+NasdaqGS:EXPE,"Expedia Group, Inc.",Consumer Discretionary,13673.56,-51.5,-18.7,-25.0,8598.0,82.3,3.0,0.1,7.5x,,6.63,1.53,3.0,
+NasdaqGS:EXPD,"Expeditors International of Washington, Inc.",Industrials,16537.45,-21.7,37.8,70.5,16523.52,13.4,11.6,8.6,-0.6x,12.57,4.97,1.06,85.0,1.1
+NYSE:EXR,Extra Space Storage Inc.,Real Estate,19710.57,-32.8,53.4,98.7,1609.72,76.4,53.9,51.4,5.6x,23.76,6.32,12.19,9.0,3.1
+NYSE:XOM,Exxon Mobil Corporation,Energy,454247.76,87.4,88.4,71.5,278981.0,32.3,9.6,8.3,1.0x,20.47,2.77,1.69,10.0,3.2
+NasdaqGS:FFIV,"F5, Inc.",Information Technology,8663.5,-41.4,2.8,9.4,2665.9,80.9,16.8,12.6,-0.3x,26.38,3.62,3.26,14.0,
+NYSE:FDS,FactSet Research Systems Inc.,Financials,15285.39,-16.7,53.6,118.6,1923.98,53.7,30.4,22.1,2.4x,36.53,10.59,7.91,18.0,0.9
+NasdaqGS:FAST,Fastenal Company,Industrials,27103.0,-24.3,38.6,97.8,6010.9,46.2,20.3,15.4,0.3x,29.58,8.95,4.53,34.0,2.4
+NYSE:FRT,Federal Realty Investment Trust,Real Estate,8205.41,-22.7,-11.0,-8.0,952.47,67.5,32.1,27.5,7.0x,30.99,3.28,8.2,4.0,4.3
+NYSE:FDX,FedEx Corporation,Industrials,43715.18,-31.6,20.0,-25.4,94091.0,24.8,5.7,3.5,3.5x,13.59,1.81,0.48,8.0,3.1
+NYSE:FIS,"Fidelity National Information Services, Inc.",Information Technology,40260.8,-36.5,-49.0,-22.9,13877.0,37.4,10.0,3.0,4.7x,101.27,0.87,3.01,2.0,2.3
+NasdaqGS:FITB,Fifth Third Bancorp,Financials,22520.66,-21.9,19.9,29.2,8297.0,,,33.4,,8.8,1.11,2.78,,3.5
+NYSE:FRC,First Republic Bank,Financials,22296.77,-40.6,5.7,45.5,4975.0,,,29.7,,15.87,1.78,4.34,,0.7
+NasdaqGS:FSLR,"First Solar, Inc.",Information Technology,15968.45,71.9,167.7,121.8,2923.38,25.3,15.4,16.0,-2.0x,34.2,2.67,5.44,9.0,
+NYSE:FE,FirstEnergy Corp.,Utilities,23979.33,4.8,-2.2,67.7,10943.0,67.8,20.4,11.7,6.3x,18.48,2.76,2.09,5.0,3.8
+NasdaqGS:FISV,"Fiserv, Inc.",Information Technology,64182.29,-2.6,-12.6,54.2,16226.0,49.9,14.2,8.2,3.8x,50.79,2.12,4.13,4.0,
+NYSE:FLT,"FLEETCOR Technologies, Inc.",Information Technology,13546.83,-17.9,-36.2,-4.5,2833.74,80.2,43.8,29.6,3.1x,18.39,5.05,5.32,15.0,
+NYSE:FMC,FMC Corporation,Materials,15608.23,15.7,32.2,65.9,5045.2,42.8,22.7,14.7,2.1x,20.03,5.17,3.18,16.0,1.6
+NYSE:F,Ford Motor Company,Consumer Discretionary,46758.35,-42.2,32.0,12.3,136341.0,12.1,7.7,13.2,6.4x,2.61,0.96,0.34,5.0,0.9
+NasdaqGS:FTNT,"Fortinet, Inc.",Information Technology,38194.63,-32.0,129.0,459.5,3342.2,76.6,19.3,18.2,-2.0x,67.34,50.66,11.94,28.0,
+NYSE:FTV,Fortive Corporation,Industrials,22732.18,-15.4,1.8,8.3,5254.7,57.3,15.8,11.6,2.7x,38.94,2.43,4.27,6.0,0.4
+NasdaqGS:FOX,Fox Corporation,Communication Services,16020.38,-15.8,-18.4,,13591.0,35.5,19.2,10.6,1.4x,,,,16.0,1.7
+NasdaqGS:FOXA,Fox Corporation,Communication Services,16020.38,-16.6,-14.7,,13591.0,35.5,19.2,10.6,1.4x,12.32,1.52,1.29,16.0,1.6
+NYSE:BEN,"Franklin Resources, Inc.",Financials,13196.81,-17.5,16.2,-19.2,8654.4,42.5,26.5,22.4,-0.1x,6.98,1.15,1.49,13.0,4.3
+NYSE:FCX,Freeport-McMoRan Inc.,Materials,54314.43,-7.3,197.7,111.8,22845.0,47.7,36.7,18.8,0.2x,13.1,3.96,2.44,24.0,1.0
+NYSE:GRMN,Garmin Ltd.,Consumer Discretionary,17688.66,-30.2,1.8,76.9,4982.8,58.0,24.5,21.7,-2.2x,16.45,2.91,3.56,25.0,2.9
+NYSE:IT,"Gartner, Inc.",Information Technology,26563.26,0.5,118.1,173.0,4733.96,69.5,20.5,16.8,2.2x,36.5,74.64,6.04,29.0,
+NasdaqGS:GEHC,GE HealthCare Technologies Inc.,Health Care,26545.97,,,,17585.0,40.8,15.9,12.8,0.0x,,,,15.0,
+NasdaqGS:GEN,Gen Digital Inc.,Information Technology,14263.17,-15.8,55.1,45.2,3107.0,83.9,42.0,17.8,6.4x,13.72,,4.53,11.0,2.3
+NYSE:GNRC,Generac Holdings Inc.,Industrials,6377.46,-71.4,0.1,103.3,3737.18,36.4,19.9,14.7,1.1x,12.13,2.9,1.69,20.0,
+NYSE:GD,General Dynamics Corporation,Industrials,67986.31,21.7,52.0,37.2,38469.0,16.7,11.4,8.5,2.2x,21.48,3.9,1.81,12.0,1.9
+NYSE:GE,General Electric Company,Industrials,91554.66,-10.9,-5.0,-34.7,74196.0,24.6,3.6,-8.8,1.7x,,2.28,1.24,2.0,0.5
+NYSE:GIS,"General Mills, Inc.",Consumer Staples,49438.86,28.1,72.5,68.9,19367.2,32.7,16.5,15.0,2.9x,17.5,4.89,2.61,13.0,2.5
+NYSE:GM,General Motors Company,Consumer Discretionary,47792.24,-42.4,-6.5,-9.5,127004.0,14.2,9.0,7.9,5.1x,5.02,0.84,0.38,6.0,
+NYSE:GPC,Genuine Parts Company,Consumer Discretionary,24492.91,26.8,77.9,111.2,18870.51,35.2,6.7,4.8,1.8x,27.85,7.07,1.32,17.0,1.9
+NasdaqGS:GILD,"Gilead Sciences, Inc.",Health Care,107676.83,23.6,49.9,45.7,27305.0,79.8,43.7,22.8,1.3x,17.41,5.11,3.95,23.0,3.3
+NYSE:GPN,Global Payments Inc.,Information Technology,26856.24,-25.9,-44.6,1.1,8523.76,56.2,20.6,11.3,3.1x,30.19,1.1,3.41,4.0,1.0
+NYSE:GL,Globe Life Inc.,Financials,11725.93,29.7,17.5,38.5,5112.87,25.8,19.6,14.6,1.9x,16.7,1.39,2.41,4.0,0.7
+NYSE:HAL,Halliburton Company,Energy,35731.64,74.5,67.6,-11.7,15295.0,13.2,11.4,9.5,2.8x,24.14,5.25,2.29,11.0,0.5
+NasdaqGS:HAS,"Hasbro, Inc.",Consumer Discretionary,8426.32,-37.9,-36.4,-22.1,5856.7,49.8,14.5,3.5,3.3x,19.68,2.79,1.31,12.0,4.6
+NYSE:HCA,"HCA Healthcare, Inc.",Health Care,67840.7,-5.6,66.0,186.2,58752.0,38.3,16.5,11.8,2.8x,11.34,,1.32,24.0,0.8
+NYSE:PEAK,"Healthpeak Properties, Inc.",Real Estate,13476.13,-27.5,-17.2,21.6,1896.18,59.5,17.8,26.7,6.2x,115.87,2.07,7.13,2.0,4.8
+NasdaqGS:HSIC,"Henry Schein, Inc.",Health Care,10826.18,3.0,19.7,45.8,12401.0,29.6,6.9,5.1,1.0x,17.95,3.2,0.9,14.0,
+NYSE:HES,Hess Corporation,Energy,43495.13,94.0,122.9,224.7,7384.0,72.5,26.3,7.6,1.8x,78.35,6.94,5.97,13.0,0.7
+NYSE:HPE,Hewlett Packard Enterprise Company,Information Technology,20457.8,4.5,12.1,30.9,27912.0,33.8,8.2,13.3,2.3x,5.71,1.02,0.75,6.0,3.0
+NYSE:HLT,Hilton Worldwide Holdings Inc.,Consumer Discretionary,34174.82,-18.7,14.5,61.3,2444.0,72.2,42.2,16.8,6.9x,86.55,,14.42,9.0,
+NasdaqGS:HOLX,"Hologic, Inc.",Health Care,18390.82,-2.3,43.3,75.0,5493.6,70.8,40.6,31.2,0.6x,11.25,4.17,3.48,33.0,
+NasdaqGS:HON,Honeywell International Inc.,Industrials,144078.65,4.9,28.6,61.5,34392.0,32.0,21.7,16.1,1.0x,27.09,7.9,4.31,19.0,1.8
+NYSE:HRL,Hormel Foods Corporation,Consumer Staples,24889.62,-4.7,7.5,38.7,11969.4,17.0,9.8,7.7,1.7x,26.95,3.48,2.06,11.0,2.2
+NasdaqGS:HST,"Host Hotels & Resorts, Inc.",Real Estate,11476.2,-4.6,-9.0,-6.7,2921.0,22.0,-4.3,-0.4,8.5x,,1.78,3.9,-1.0,
+NYSE:HWM,Howmet Aerospace Inc.,Industrials,16304.39,24.2,67.9,92.8,4972.0,27.6,16.6,5.2,3.3x,66.8,4.81,3.41,10.0,0.1
+NYSE:HPQ,HP Inc.,Information Technology,26390.26,-26.4,43.6,48.9,64869.0,20.8,8.6,10.1,0.8x,4.83,,0.48,88.0,3.1
+NYSE:HUM,Humana Inc.,Health Care,64843.42,11.2,42.6,113.7,84193.0,17.8,5.1,3.5,2.2x,22.59,4.1,0.78,15.0,0.5
+NasdaqGS:HBAN,Huntington Bancshares Incorporated,Financials,20342.55,-4.4,8.1,20.6,5958.0,,,21.7,,15.67,1.18,2.99,,4.4
+NYSE:HII,"Huntington Ingalls Industries, Inc.",Industrials,9204.95,26.3,-1.5,7.9,9524.0,14.4,6.8,5.7,3.1x,17.09,3.29,0.98,9.0,2.0
+NYSE:IEX,IDEX Corporation,Industrials,17220.9,-2.2,37.3,83.4,2764.8,44.7,23.7,16.3,0.5x,38.83,6.21,6.28,18.0,0.9
+NasdaqGS:IDXX,"IDEXX Laboratories, Inc.",Health Care,33786.01,-38.0,56.2,160.9,3215.36,58.8,29.0,23.2,0.9x,47.44,50.0,10.81,55.0,
+NYSE:ITW,Illinois Tool Works Inc.,Industrials,67673.16,-8.5,31.7,49.4,14455.0,41.3,24.2,18.6,1.6x,25.89,19.02,4.8,29.0,2.1
+NasdaqGS:ILMN,"Illumina, Inc.",Health Care,31806.06,-46.9,-39.0,-7.5,4526.0,71.3,14.4,16.8,1.3x,40.12,2.96,6.7,5.0,
+NasdaqGS:INCY,Incyte Corporation,Health Care,17869.23,9.4,-8.0,-15.2,2986.27,44.9,20.1,31.8,-3.5x,18.81,4.71,5.93,29.0,
+NYSE:IR,Ingersoll Rand Inc.,Industrials,21157.37,-15.4,42.7,54.3,5152.4,38.6,12.1,10.9,1.4x,42.14,2.37,4.21,5.0,0.0
+NasdaqGS:INTC,Intel Corporation,Information Technology,109076.61,-46.6,-51.7,-34.2,79024.0,55.4,27.9,25.1,0.2x,5.44,1.13,1.36,16.0,5.3
+NYSE:ICE,"Intercontinental Exchange, Inc.",Financials,57301.81,-23.9,15.1,54.9,7146.0,100.0,49.7,56.8,3.1x,14.29,2.53,8.07,9.0,1.3
+NYSE:IBM,International Business Machines Corporation,Information Technology,127382.36,10.6,27.7,22.2,57351.0,54.9,10.1,10.0,3.9x,27.04,6.69,2.2,6.0,4.7
+NYSE:IFF,International Flavors & Fragrances Inc.,Materials,26730.24,-28.3,-12.1,-22.3,11656.0,32.0,5.8,2.3,6.3x,95.31,1.27,2.19,2.0,3.0
+NYSE:IP,International Paper Company,Materials,12316.85,-23.0,-9.3,-21.7,19363.0,28.6,8.6,9.0,1.6x,12.11,1.44,0.7,8.0,5.8
+NasdaqGS:INTU,Intuit Inc.,Information Technology,109341.76,-39.1,51.5,155.7,11414.0,82.9,22.8,19.0,1.9x,50.06,7.06,9.41,12.0,0.7
+NasdaqGS:ISRG,"Intuitive Surgical, Inc.",Health Care,93770.6,-26.1,34.7,118.1,5710.1,69.3,31.9,29.9,-1.9x,56.94,7.98,16.55,16.0,
+NYSE:IVZ,Invesco Ltd.,Financials,8181.58,-18.7,13.6,-37.4,6894.5,33.5,25.0,23.6,0.2x,6.02,0.72,1.21,6.0,3.8
+NYSE:INVH,Invitation Homes Inc.,Real Estate,18122.19,-33.0,5.4,39.5,1995.07,61.0,27.6,13.1,6.7x,65.87,1.82,8.58,3.0,2.5
+NYSE:IQV,IQVIA Holdings Inc.,Health Care,38056.27,-27.4,32.6,109.3,13874.0,33.5,10.4,7.0,4.4x,41.39,6.46,2.83,8.0,
+NYSE:IRM,Iron Mountain Incorporated,Real Estate,14492.09,-0.1,89.4,84.6,4491.53,58.0,20.1,10.0,7.4x,32.16,16.88,3.21,7.0,5.0
+NasdaqGS:JBHT,"J.B. Hunt Transport Services, Inc.",Industrials,18052.79,-13.9,53.2,58.4,12168.3,16.6,8.6,6.3,0.7x,24.42,5.88,1.51,20.0,0.7
+NasdaqGS:JKHY,"Jack Henry & Associates, Inc.",Information Technology,12807.0,6.2,24.5,58.6,1866.02,40.9,23.9,18.5,0.5x,37.68,10.05,6.99,24.0,1.1
+NYSE:J,Jacobs Solutions Inc.,Industrials,15202.21,-13.1,36.7,89.5,15340.87,21.8,7.0,4.2,2.2x,54.88,2.55,1.11,10.0,0.8
+NYSE:JNJ,Johnson & Johnson,Health Care,461848.53,6.0,30.9,44.3,93775.0,68.2,26.8,22.3,0.1x,22.62,6.27,4.96,20.0,2.4
+NYSE:JCI,Johnson Controls International plc,Industrials,43949.05,-19.3,68.5,90.3,24189.0,34.0,11.8,6.5,2.2x,29.21,2.61,1.88,9.0,1.8
+NYSE:JPM,JPMorgan Chase & Co.,Financials,393342.78,-12.6,5.4,45.0,130898.0,,,36.9,,8.73,1.52,3.1,,2.9
+NYSE:JNPR,"Juniper Networks, Inc.",Information Technology,10372.79,-8.1,42.1,29.9,4735.4,57.9,9.1,5.3,0.9x,42.05,2.38,2.19,7.0,2.5
+NYSE:K,Kellogg Company,Consumer Staples,24312.87,14.4,14.5,25.2,14181.0,32.2,13.8,10.5,3.1x,16.45,6.54,1.71,14.0,3.3
+NasdaqGS:KDP,Keurig Dr Pepper Inc.,Consumer Staples,50564.51,-1.2,31.2,,12683.0,55.2,24.8,16.9,3.3x,23.77,2.03,3.98,7.0,2.0
+NYSE:KEY,KeyCorp,Financials,16252.33,-21.7,-2.3,5.1,7683.0,,,34.2,,6.65,1.04,2.15,,4.4
+NYSE:KEYS,"Keysight Technologies, Inc.",Information Technology,30586.54,-17.2,66.7,311.2,5011.0,63.2,23.1,19.0,0.0x,33.53,8.17,6.29,26.0,
+NYSE:KMB,Kimberly-Clark Corporation,Consumer Staples,45814.55,-1.6,9.0,32.9,19440.0,31.6,14.6,9.3,2.5x,25.37,88.96,2.36,25.0,3.4
+NYSE:KIM,Kimco Realty Corporation,Real Estate,13099.0,-10.8,15.0,49.3,1364.59,69.4,33.0,61.9,8.8x,13.23,1.32,7.86,3.0,3.2
+NYSE:KMI,"Kinder Morgan, Inc.",Energy,40639.18,21.2,3.9,33.2,16610.0,46.7,27.3,10.7,4.9x,23.15,1.33,2.47,7.0,6.1
+NasdaqGS:KLAC,KLA Corporation,Information Technology,53432.06,-11.2,120.8,294.1,8165.71,60.8,38.9,36.6,0.2x,19.42,14.05,7.05,43.0,1.0
+NYSE:LHX,"L3Harris Technologies, Inc.",Industrials,39643.77,-0.5,11.3,60.4,17062.0,28.9,11.3,6.2,2.4x,22.91,2.1,2.35,7.0,2.2
+NYSE:LH,Laboratory Corporation of America Holdings,Health Care,20863.53,-24.4,40.4,48.9,16120.9,34.9,21.0,14.7,1.2x,9.65,2.13,1.41,21.0,
+NasdaqGS:LRCX,Lam Research Corporation,Information Technology,57320.23,-40.7,49.5,148.0,19047.66,45.3,31.8,26.9,0.1x,13.1,9.1,3.61,59.0,1.5
+NYSE:LW,"Lamb Weston Holdings, Inc.",Consumer Staples,12852.76,42.9,8.2,68.6,4510.2,25.1,15.6,10.5,2.6x,68.17,35.53,3.36,21.0,1.1
+NYSE:LVS,Las Vegas Sands Corp.,Consumer Discretionary,36732.27,27.7,-29.0,-22.3,4234.0,66.8,-15.6,-22.7,34.6x,,18.4,8.67,-4.0,
+NYSE:LDOS,"Leidos Holdings, Inc.",Industrials,14378.37,20.0,12.2,76.5,14396.0,14.5,7.9,4.8,3.5x,19.96,3.43,1.08,12.0,1.4
+NYSE:LEN,Lennar Corporation,Consumer Discretionary,25778.38,-20.6,68.6,49.7,33671.01,21.4,20.0,13.7,0.3x,,,,21.0,1.7
+NYSE:LNC,Lincoln National Corporation,Financials,5198.3,-53.5,-42.4,-53.8,19230.0,10.4,10.4,7.3,2.5x,4.13,0.27,0.3,1.0,5.6
+NYSE:LIN,Linde plc,Materials,160663.46,-4.4,60.5,129.9,30793.0,43.0,17.9,12.4,1.2x,44.56,3.77,5.48,8.0,1.3
+NYSE:LYV,"Live Nation Entertainment, Inc.",Communication Services,15780.58,-41.7,-2.4,63.8,6268.45,30.5,-6.6,-10.4,-4915.6x,,,2.42,-12.0,
+NasdaqGS:LKQ,LKQ Corporation,Consumer Discretionary,14269.82,-9.2,53.3,34.5,13089.0,40.7,11.5,8.3,2.2x,14.55,2.66,1.21,15.0,0.5
+NYSE:LMT,Lockheed Martin Corporation,Industrials,127496.36,40.5,35.5,72.9,67044.0,13.6,11.7,9.4,0.9x,21.37,12.03,2.01,24.0,2.2
+NYSE:L,Loews Corporation,Financials,13849.12,1.4,12.8,19.6,14657.0,37.8,17.6,10.8,2.9x,9.61,0.81,1.03,5.0,0.4
+NYSE:LOW,"Lowe's Companies, Inc.",Consumer Discretionary,120480.94,-21.5,74.9,134.1,96250.0,33.3,12.7,8.8,2.0x,16.55,,1.44,48.0,1.5
+NYSE:LUMN,"Lumen Technologies, Inc.",Communication Services,5400.52,-55.5,-50.1,-51.7,19687.0,56.9,20.3,10.3,3.8x,2.73,0.45,0.28,8.0,19.2
+NYSE:LYB,LyondellBasell Industries N.V.,Materials,27036.6,-1.0,6.8,-0.2,46173.0,19.0,16.0,12.1,1.4x,4.95,2.31,0.6,26.0,5.4
+NYSE:MTB,M&T Bank Corporation,Financials,25039.29,-2.9,-6.1,-2.4,6066.77,,,30.6,,10.52,1.16,3.08,,3.1
+NYSE:MRO,Marathon Oil Corporation,Energy,17191.29,66.9,106.9,70.2,5616.0,77.5,20.5,16.8,1.1x,22.56,1.88,3.79,8.0,0.8
+NYSE:MPC,Marathon Petroleum Corporation,Energy,54547.43,86.6,118.2,112.3,120451.0,8.7,3.1,8.1,2.3x,57.62,2.57,0.61,6.0,2.0
+NasdaqGS:MKTX,MarketAxess Holdings Inc.,Financials,10496.53,-31.5,-24.9,43.3,698.95,93.9,48.3,36.9,-1.1x,41.19,10.16,14.97,40.0,0.9
+NasdaqGS:MAR,"Marriott International, Inc.",Consumer Discretionary,47129.58,-9.3,-0.7,13.8,3415.0,78.5,51.0,32.2,4.9x,44.58,34.36,14.27,9.0,
+NYSE:MMC,"Marsh & McLennan Companies, Inc.",Financials,82079.65,-3.5,55.6,121.2,19820.0,43.8,23.2,15.9,2.1x,27.0,7.57,4.23,17.0,1.3
+NYSE:MLM,"Martin Marietta Materials, Inc.",Materials,20984.79,-22.7,23.7,59.4,5084.7,26.5,20.3,13.8,3.7x,30.15,3.23,4.15,8.0,0.7
+NYSE:MAS,Masco Corporation,Industrials,10525.44,-32.1,1.9,14.0,8375.0,34.2,12.2,4.9,1.9x,28.81,,1.39,37.0,2.1
+NYSE:MA,Mastercard Incorporated,Information Technology,334328.41,-2.7,18.3,136.0,18884.0,100.0,54.4,46.0,0.6x,39.7,46.6,18.19,57.0,0.5
+NasdaqGS:MTCH,"Match Group, Inc.",Communication Services,11588.41,-68.6,,,2983.28,71.9,28.5,9.3,3.5x,44.72,,3.82,27.0,
+NYSE:MKC,"McCormick & Company, Incorporated",Consumer Staples,22219.0,-12.7,2.5,76.2,6350.5,35.8,14.6,10.7,4.6x,29.6,5.02,3.51,8.0,1.8
+NYSE:MCD,McDonald's Corporation,Consumer Discretionary,193015.67,0.5,42.9,72.3,23222.9,54.2,42.5,32.5,3.8x,26.25,,8.47,22.0,2.0
+NYSE:MCK,McKesson Corporation,Health Care,53189.57,51.8,178.2,152.4,257006.0,5.0,1.0,0.5,1.6x,41.52,,0.23,18.0,0.5
+NYSE:MDT,Medtronic plc,Health Care,103381.59,-22.6,-26.1,8.3,31785.0,68.5,22.0,15.5,1.4x,21.42,1.99,3.29,9.0,3.2
+NYSE:MRK,"Merck & Co., Inc.",Health Care,281302.18,49.4,41.2,141.6,48704.0,72.3,28.5,26.8,1.6x,22.83,7.34,5.76,18.0,2.4
+NasdaqGS:META,"Meta Platforms, Inc.",Communication Services,315555.19,-64.2,-41.4,-31.8,117929.0,80.8,39.6,33.4,-0.6x,8.74,2.64,2.87,36.0,
+NYSE:MET,"MetLife, Inc.",Financials,56781.95,19.2,58.3,71.8,71080.0,29.1,12.7,9.2,9.4x,9.9,0.89,0.88,1.0,2.6
+NYSE:MTD,Mettler-Toledo International Inc.,Health Care,32225.14,-14.8,82.2,133.3,3717.93,58.4,27.1,20.7,1.6x,44.1,192.62,8.99,45.0,
+NYSE:MGM,MGM Resorts International,Consumer Discretionary,12876.2,-25.3,1.6,4.8,9454.06,49.2,6.0,13.3,11.7x,13.91,2.51,1.71,2.0,0.0
+NasdaqGS:MCHP,Microchip Technology Incorporated,Information Technology,38638.11,-18.0,39.8,72.4,6443.8,64.5,25.1,15.0,2.8x,41.35,6.73,5.99,11.0,1.2
+NasdaqGS:MU,"Micron Technology, Inc.",Information Technology,54537.0,-45.9,-6.1,22.8,27156.0,41.3,25.2,22.8,-0.1x,8.97,1.11,2.03,13.0,0.9
+NasdaqGS:MSFT,Microsoft Corporation,Information Technology,1788218.43,-28.0,56.4,197.7,184903.0,68.8,42.5,38.5,-0.5x,25.54,11.24,9.75,31.0,1.0
+NYSE:MAA,"Mid-America Apartment Communities, Inc.",Real Estate,18128.74,-29.7,29.7,82.9,1778.08,59.1,26.1,30.0,4.5x,34.07,3.04,10.13,4.0,2.6
+NasdaqGS:MRNA,"Moderna, Inc.",Health Care,69006.5,-29.3,818.3,,18471.0,75.1,72.0,66.1,-1.2x,6.35,5.12,3.92,149.0,
+NYSE:MHK,"Mohawk Industries, Inc.",Consumer Discretionary,6494.45,-43.9,-25.0,-63.0,11200.61,29.4,12.1,9.2,1.1x,6.84,0.8,0.63,12.0,
+NYSE:MOH,"Molina Healthcare, Inc.",Health Care,19284.85,3.8,143.4,330.6,26984.0,12.2,3.9,2.4,-1.7x,29.35,7.28,0.71,135.0,
+NYSE:TAP,Molson Coors Beverage Company,Consumer Staples,11219.82,14.4,1.0,-29.5,10279.7,39.4,15.0,9.8,2.9x,11.15,0.83,1.09,6.0,1.3
+NasdaqGS:MDLZ,"Mondelez International, Inc.",Consumer Staples,91018.47,2.9,29.5,74.1,28720.0,39.2,17.4,15.0,2.7x,21.92,3.28,3.26,10.0,2.0
+NasdaqGS:MPWR,"Monolithic Power Systems, Inc.",Information Technology,16599.16,-27.8,103.0,228.4,1207.8,56.8,22.2,20.0,-2.4x,70.02,13.15,13.42,23.0,0.7
+NasdaqGS:MNST,Monster Beverage Corporation,Consumer Staples,53011.38,5.7,59.8,60.4,5541.35,56.1,32.5,24.9,-1.6x,39.51,8.18,9.69,33.0,
+NYSE:MCO,Moody's Corporation,Financials,51032.7,-28.0,20.3,97.6,6218.0,73.7,45.6,35.6,2.0x,23.65,18.97,8.35,27.0,0.9
+NYSE:MS,Morgan Stanley,Financials,143693.1,-10.3,81.6,86.1,59751.0,89.2,,25.2,,10.59,1.54,2.54,,2.9
+NYSE:MSI,"Motorola Solutions, Inc.",Information Technology,43089.94,-3.8,67.2,208.2,8171.0,49.5,22.6,15.2,1.9x,35.94,,5.34,29.0,1.1
+NYSE:MSCI,MSCI Inc.,Financials,37194.14,-23.3,84.7,286.0,2043.54,82.4,53.9,35.5,2.5x,53.47,,18.78,39.0,0.8
+NasdaqGS:NDAQ,"Nasdaq, Inc.",Financials,30140.0,-11.2,79.2,159.6,5886.0,58.1,27.6,20.2,3.1x,26.11,4.8,5.19,13.0,1.1
+NasdaqGS:NTAP,"NetApp, Inc.",Information Technology,12947.34,-32.9,6.0,24.9,6193.0,67.3,19.4,16.3,-0.9x,13.59,15.19,2.16,58.0,3.3
+NasdaqGS:NFLX,"Netflix, Inc.",Communication Services,131227.64,-51.1,-8.9,53.6,29697.84,41.6,20.9,17.2,1.9x,26.23,8.26,4.4,20.0,
+NasdaqGS:NWL,Newell Brands Inc.,Consumer Discretionary,5409.86,-37.0,-21.5,-46.3,10589.0,32.0,10.6,5.9,3.5x,9.76,1.36,0.53,11.0,7.1
+NYSE:NEM,Newmont Corporation,Materials,37464.47,-20.8,19.4,46.2,12222.0,40.4,16.3,9.5,0.2x,34.01,1.7,3.09,6.0,4.7
+NasdaqGS:NWS,News Corporation,Communication Services,10525.24,-17.2,31.6,18.3,10046.0,50.8,8.3,4.9,1.0x,,,,7.0,1.1
+NasdaqGS:NWSA,News Corporation,Communication Services,10525.24,-17.6,33.3,19.7,10046.0,50.8,8.3,4.9,1.0x,21.91,1.28,1.07,7.0,1.1
+NYSE:NEE,"NextEra Energy, Inc.",Utilities,166126.88,-8.5,46.8,139.4,17069.0,50.2,18.1,20.9,7.4x,46.19,4.41,9.61,2.0,1.9
+NYSE:NKE,"NIKE, Inc.",Consumer Discretionary,183072.79,-29.0,18.7,96.5,49107.0,44.6,13.0,11.5,0.3x,33.06,11.94,3.74,27.0,1.1
+NYSE:NI,NiSource Inc.,Utilities,11136.2,2.7,9.0,25.6,4899.6,42.2,21.4,11.9,5.7x,21.53,2.06,2.2,5.0,3.3
+NasdaqGS:NDSN,Nordson Corporation,Industrials,13587.32,-5.9,50.0,70.3,2444.81,56.2,26.9,20.3,1.0x,28.07,6.21,5.65,20.0,0.8
+NYSE:NSC,Norfolk Southern Corporation,Industrials,59964.95,-15.6,34.0,86.7,11142.0,51.4,40.8,27.0,2.4x,20.35,4.34,5.46,13.0,1.7
+NasdaqGS:NTRS,Northern Trust Corporation,Financials,18442.7,-23.8,-9.0,1.4,6546.0,,,23.6,,12.39,1.65,2.81,,3.2
+NYSE:NOC,Northrop Grumman Corporation,Industrials,83976.01,43.0,66.6,92.6,35667.0,20.4,21.0,19.6,1.2x,12.53,6.6,2.45,25.0,1.1
+NYSE:NCLH,Norwegian Cruise Line Holdings Ltd.,Consumer Discretionary,5157.89,-41.0,-79.0,-77.0,647.99,-148.2,,,-6.4x,,2.1,6.9,-18.0,
+NYSE:NRG,"NRG Energy, Inc.",Utilities,7330.83,-23.5,-11.2,24.8,26989.0,24.1,13.8,8.1,1.7x,3.56,2.15,0.29,25.0,4.2
+NYSE:NUE,Nucor Corporation,Materials,33815.03,17.4,151.9,135.6,36483.94,30.3,25.4,18.7,0.3x,5.69,2.56,1.06,48.0,1.3
+NasdaqGS:NVDA,NVIDIA Corporation,Information Technology,359650.54,-50.3,149.3,205.2,26914.0,64.9,37.3,36.2,-0.8x,37.96,13.76,13.55,26.0,0.1
+NYSE:NVR,"NVR, Inc.",Consumer Discretionary,14741.28,-21.9,21.1,31.5,8966.31,23.6,18.3,13.8,-0.6x,14.39,5.3,1.84,65.0,
+NasdaqGS:NXPI,NXP Semiconductors N.V.,Information Technology,40951.08,-29.2,29.8,43.6,11063.0,54.8,23.6,16.9,2.1x,23.27,6.41,3.87,17.0,1.4
+NYSE:OXY,Occidental Petroleum Corporation,Energy,57061.24,119.1,59.4,-0.6,25956.0,62.8,16.8,8.9,2.2x,30.58,5.57,2.27,7.0,0.1
+NasdaqGS:ODFL,"Old Dominion Freight Line, Inc.",Industrials,31352.47,-20.5,126.7,229.7,5256.33,38.1,26.5,19.7,-0.3x,31.92,8.87,6.24,36.0,0.3
+NYSE:OMC,Omnicom Group Inc.,Communication Services,16633.44,15.7,13.4,34.8,14289.4,18.9,14.8,9.9,0.7x,12.49,5.22,1.22,30.0,3.5
+NasdaqGS:ON,ON Semiconductor Corporation,Information Technology,26970.26,-8.2,155.8,197.9,6739.8,40.3,20.6,15.0,1.0x,27.48,5.88,3.94,20.0,
+NYSE:OKE,"ONEOK, Inc.",Energy,29364.87,18.9,10.7,73.8,16540.31,25.9,15.7,9.1,4.3x,19.61,4.87,1.77,12.0,5.8
+NYSE:ORCL,Oracle Corporation,Information Technology,220391.72,-4.6,62.2,87.8,46073.0,76.1,31.4,19.1,4.5x,25.53,,4.75,14.0,1.6
+NasdaqGS:ORLY,"O'Reilly Automotive, Inc.",Consumer Discretionary,52815.95,19.5,92.6,250.9,13327.56,52.7,22.0,16.2,1.7x,27.14,,4.37,50.0,
+NYSE:OGN,Organon & Co.,Health Care,7104.4,-4.9,,,6304.0,62.3,30.5,21.4,4.1x,5.26,,1.12,26.0,2.0
+NYSE:OTIS,Otis Worldwide Corporation,Industrials,32622.86,-8.8,,,14298.0,29.5,15.2,8.7,2.6x,27.1,,2.34,46.0,1.2
+NasdaqGS:PCAR,PACCAR Inc,Industrials,34418.56,17.0,38.1,69.6,23522.3,13.5,10.1,7.9,2.1x,18.6,3.01,1.46,11.0,1.4
+NYSE:PKG,Packaging Corporation of America,Materials,11751.52,-2.6,25.8,23.8,7730.3,24.3,16.9,10.9,1.1x,14.49,3.29,1.56,20.0,3.2
+NasdaqGS:PARA,Paramount Global,Communication Services,11069.19,-41.8,-55.4,-67.3,28586.0,37.9,14.0,15.9,3.0x,2.52,0.49,0.38,9.0,5.8
+NYSE:PH,Parker-Hannifin Corporation,Industrials,37366.07,-6.9,48.4,58.8,15292.58,30.6,17.6,11.9,2.4x,20.97,4.27,2.45,14.0,1.4
+NasdaqGS:PAYX,"Paychex, Inc.",Information Technology,41655.51,-13.2,47.7,96.5,4816.8,70.5,40.0,30.4,-0.2x,28.53,13.0,8.65,57.0,2.6
+NYSE:PAYC,"Paycom Software, Inc.",Information Technology,17956.54,-25.3,17.2,286.3,1055.52,87.6,24.0,18.6,-0.8x,92.08,19.38,17.02,26.0,
+NasdaqGS:PYPL,"PayPal Holdings, Inc.",Information Technology,81192.78,-62.2,-34.2,-3.3,25371.0,47.0,17.0,16.4,0.1x,20.23,3.83,3.3,15.0,
+NYSE:PNR,Pentair plc,Industrials,7399.14,-37.4,2.8,1.1,3764.8,35.0,17.4,14.7,1.2x,13.55,3.07,1.98,18.0,1.8
+NasdaqGS:PEP,"PepsiCo, Inc.",Consumer Staples,251832.02,6.8,43.8,74.3,79474.0,53.4,14.9,9.6,2.5x,32.91,15.57,3.14,18.0,2.4
+NYSE:PKI,"PerkinElmer, Inc.",Health Care,17712.02,-30.1,45.4,94.3,3827.81,64.5,36.6,24.6,2.6x,17.35,2.48,3.21,11.0,0.2
+NYSE:PFE,Pfizer Inc.,Health Care,287626.24,-10.4,54.2,79.1,81288.0,62.3,33.2,27.0,0.3x,13.04,3.73,3.53,19.0,3.1
+NYSE:PCG,PG&E Corporation,Utilities,32320.0,33.9,49.6,-63.7,20642.0,29.4,15.3,-0.5,7.0x,,1.54,1.56,3.0,
+NYSE:PM,Philip Morris International Inc.,Consumer Staples,156895.98,12.3,40.6,26.7,31405.0,68.1,41.6,29.0,1.7x,17.36,,5.02,63.0,4.8
+NYSE:PSX,Phillips 66,Energy,49191.56,49.6,7.4,26.2,111476.0,8.4,0.4,1.2,5.9x,35.07,2.38,0.41,1.0,3.5
+NYSE:PNW,Pinnacle West Capital Corporation,Utilities,8603.18,13.0,-3.8,8.7,3803.84,44.6,24.1,16.3,5.0x,13.9,1.45,2.26,4.0,4.4
+NYSE:PXD,Pioneer Natural Resources Company,Energy,54265.17,39.1,78.5,58.0,17870.0,52.6,23.6,11.9,0.6x,26.51,2.43,2.98,14.0,3.1
+NasdaqGS:POOL,Pool Corporation,Consumer Discretionary,11806.17,-46.0,46.1,144.8,5295.58,30.5,15.7,12.3,1.6x,18.93,11.34,2.28,33.0,1.0
+NYSE:PPG,"PPG Industries, Inc.",Materials,29552.34,-25.7,-0.8,17.2,16802.0,39.0,10.8,8.6,2.6x,21.2,4.72,1.78,12.0,1.8
+NYSE:PPL,PPL Corporation,Utilities,21515.22,0.4,-5.8,21.8,5783.0,47.6,25.6,-25.6,3.0x,,1.57,3.85,5.0,5.7
+NasdaqGS:PFG,"Principal Financial Group, Inc.",Financials,20533.78,20.1,72.3,45.4,14262.7,49.6,14.6,12.0,1.0x,13.38,1.37,1.58,1.0,2.9
+NYSE:PLD,"Prologis, Inc.",Real Estate,104058.65,-31.3,35.8,98.4,5163.7,75.8,39.2,56.9,4.9x,28.59,2.5,16.14,4.0,2.3
+NYSE:PRU,"Prudential Financial, Inc.",Financials,36601.28,-3.9,23.8,9.3,70871.0,33.8,14.6,10.9,2.0x,5.1,0.6,0.54,1.0,4.7
+NasdaqGS:PTC,PTC Inc.,Information Technology,14183.22,-0.9,60.3,97.5,1835.83,79.3,21.8,27.2,2.8x,28.49,7.18,7.66,12.0,
+NYSE:PEG,Public Service Enterprise Group Incorporated,Utilities,30570.65,-5.1,15.0,40.9,9722.0,31.0,21.8,-6.7,5.3x,,2.14,3.18,5.0,3.4
+NYSE:PSA,Public Storage,Real Estate,49212.12,-20.2,49.8,64.3,3498.92,73.7,50.4,55.8,2.7x,28.39,9.37,14.0,11.0,2.9
+NYSE:PHM,"PulteGroup, Inc.",Consumer Discretionary,10372.63,-19.2,21.9,46.1,13926.88,27.2,18.4,14.0,0.4x,6.13,1.52,0.85,26.0,1.2
+NasdaqGS:QRVO,"Qorvo, Inc.",Information Technology,9189.94,-42.0,-22.0,36.1,4552.29,49.3,28.0,24.6,0.6x,9.15,2.11,2.22,21.0,
+NasdaqGS:QCOM,QUALCOMM Incorporated,Information Technology,123242.74,-38.6,33.0,97.5,42958.0,57.2,33.8,27.4,0.5x,12.6,10.91,3.44,40.0,2.7
+NYSE:PWR,"Quanta Services, Inc.",Industrials,20363.41,24.6,253.3,269.9,12980.21,15.0,4.9,3.7,3.6x,42.66,3.98,1.55,7.0,0.2
+NYSE:DGX,Quest Diagnostics Incorporated,Health Care,17816.56,-7.8,55.6,75.8,10788.0,39.3,22.7,18.5,1.4x,10.06,2.89,1.81,22.0,1.6
+NYSE:RL,Ralph Lauren Corporation,Consumer Discretionary,6971.31,-8.4,-4.5,12.8,5982.8,66.4,13.4,8.4,0.4x,15.75,2.76,1.3,19.0,2.0
+NYSE:RJF,"Raymond James Financial, Inc.",Financials,22979.54,8.3,87.8,94.5,10372.0,94.4,,14.8,,14.74,2.58,2.12,,1.0
+NYSE:RTX,Raytheon Technologies Corporation,Industrials,148529.84,20.0,23.2,51.2,64388.0,19.4,10.1,6.0,2.3x,39.12,2.05,2.35,5.0,2.0
+NYSE:O,Realty Income Corporation,Real Estate,39780.37,-7.4,1.6,42.8,2081.57,93.6,45.8,17.3,8.5x,73.15,1.5,12.63,2.0,4.5
+NasdaqGS:REG,Regency Centers Corporation,Real Estate,10695.17,-13.6,12.8,10.6,1203.87,72.9,40.8,30.0,5.0x,29.48,1.77,8.84,5.0,3.9
+NasdaqGS:REGN,"Regeneron Pharmaceuticals, Inc.",Health Care,77056.53,14.2,92.2,91.9,16071.7,67.0,56.0,50.2,-1.1x,10.02,4.1,4.75,47.0,
+NYSE:RF,Regions Financial Corporation,Financials,20146.65,2.3,40.3,48.6,6962.0,,,36.2,,8.66,1.22,2.96,,3.0
+NYSE:RSG,"Republic Services, Inc.",Industrials,40760.96,-6.2,51.1,108.3,11295.0,41.2,18.7,11.4,2.9x,31.93,4.56,3.64,9.0,1.4
+NYSE:RMD,ResMed Inc.,Health Care,30573.2,-19.5,37.5,158.5,3443.76,57.9,28.3,15.2,0.6x,58.55,9.67,8.81,25.0,0.8
+NYSE:RHI,Robert Half International Inc.,Industrials,7880.7,-32.5,24.1,46.7,6461.44,41.7,11.5,9.3,-0.4x,13.77,5.82,1.26,70.0,2.1
+NYSE:ROK,"Rockwell Automation, Inc.",Industrials,29555.14,-24.8,34.0,44.5,7289.4,41.2,16.4,13.8,2.8x,30.06,11.95,4.1,15.0,1.7
+NYSE:ROL,"Rollins, Inc.",Industrials,17994.94,8.1,70.9,87.0,2424.3,52.0,18.5,14.7,0.5x,51.46,16.61,7.42,29.0,0.9
+NYSE:ROP,"Roper Technologies, Inc.",Information Technology,45824.03,-11.6,24.0,71.6,4833.8,70.5,27.6,23.8,4.0x,46.81,3.94,7.87,6.0,0.5
+NasdaqGS:ROST,"Ross Stores, Inc.",Consumer Discretionary,39971.14,2.9,2.3,51.6,18916.24,32.2,12.3,9.1,0.3x,23.83,10.06,2.16,45.0,1.0
+NYSE:RCL,Royal Caribbean Cruises Ltd.,Consumer Discretionary,12613.65,-35.7,-62.6,-56.1,1532.13,-70.7,-247.1,,-7.6x,,2.48,8.12,-15.0,
+NYSE:SPGI,S&P Global Inc.,Financials,109123.45,-28.4,25.8,106.9,8297.0,73.5,54.7,36.4,-0.3x,26.77,39.72,9.72,94.0,0.9
+NYSE:CRM,"Salesforce, Inc.",Information Technology,131396.69,-47.8,-18.5,29.7,26492.0,73.5,2.3,5.5,1.0x,89.59,2.26,4.78,1.0,
+NasdaqGS:SBAC,SBA Communications Corporation,Real Estate,30263.82,-27.3,19.0,76.1,2308.83,75.2,35.2,10.3,9.4x,130.99,,13.27,9.0,0.8
+NYSE:SLB,Schlumberger Limited,Energy,75805.95,81.2,42.1,-7.4,22929.0,16.0,12.1,8.2,2.5x,40.5,5.0,3.26,9.0,0.9
+NasdaqGS:STX,Seagate Technology Holdings plc,Information Technology,10861.56,-51.4,0.3,58.0,9352.0,24.5,8.8,6.6,3.9x,6.63,21.95,1.0,17.0,5.3
+NYSE:SEE,Sealed Air Corporation,Materials,7215.52,-25.0,31.0,9.2,5533.8,30.4,15.8,9.2,3.0x,15.49,29.7,1.36,21.0,1.5
+NYSE:SRE,Sempra Energy,Utilities,48577.08,20.3,12.7,69.5,12857.0,36.6,21.6,10.2,5.3x,38.54,1.95,3.75,4.0,2.8
+NYSE:NOW,"ServiceNow, Inc.",Information Technology,78280.67,-40.2,37.5,197.8,5896.0,77.1,4.4,3.9,-1.5x,,20.97,13.05,6.0,
+NasdaqGS:SBNY,Signature Bank,Financials,7178.92,-64.0,-12.0,-10.0,1951.37,,,47.1,,7.67,0.88,3.42,,2.0
+NYSE:SPG,"Simon Property Group, Inc.",Real Estate,38606.18,-21.9,-6.2,-10.3,5114.69,81.0,47.1,44.0,6.8x,17.18,11.63,7.55,8.0,5.1
+NasdaqGS:SWKS,"Skyworks Solutions, Inc.",Information Technology,14595.48,-39.9,-20.8,4.5,5304.4,47.6,27.8,22.3,0.7x,10.95,2.81,2.95,20.0,2.6
+NYSE:SNA,Snap-on Incorporated,Industrials,12145.3,8.9,46.0,48.5,4601.7,51.8,24.7,17.8,0.4x,15.31,2.92,2.68,23.0,2.3
+NasdaqGS:SEDG,"SolarEdge Technologies, Inc.",Information Technology,15833.34,1.0,197.9,654.4,1963.87,32.0,10.6,8.6,-1.9x,92.55,11.42,7.53,11.0,
+NYSE:LUV,Southwest Airlines Co.,Industrials,19991.63,-21.4,-37.4,-47.1,15790.0,16.2,-4.9,6.2,-11.1x,20.91,1.91,1.26,-5.0,
+NYSE:SWK,"Stanley Black & Decker, Inc.",Industrials,11113.39,-58.9,-51.6,-50.9,15281.3,33.6,13.0,11.1,2.7x,7.81,1.12,0.76,9.0,4.0
+NasdaqGS:SBUX,Starbucks Corporation,Consumer Discretionary,113861.76,-13.2,19.8,91.2,30361.6,28.4,16.2,14.5,3.1x,26.8,,3.84,27.0,1.9
+NYSE:STT,State Street Corporation,Financials,28463.55,-13.8,7.6,-8.1,12060.0,,,22.3,,10.79,1.12,2.27,,2.8
+NasdaqGS:STLD,"Steel Dynamics, Inc.",Materials,17153.33,60.1,208.7,155.9,18408.85,29.1,23.4,17.5,0.4x,6.28,3.02,1.09,47.0,1.1
+NYSE:STE,STERIS plc,Health Care,18436.3,-23.4,24.4,121.7,4247.91,43.0,15.6,6.6,3.0x,62.45,2.8,4.08,6.0,0.9
+NYSE:SYK,Stryker Corporation,Health Care,92522.33,-7.4,20.6,67.2,17108.0,65.8,21.4,11.7,2.1x,46.93,6.2,5.39,13.0,1.1
+NasdaqGS:SIVB,SVB Financial Group,Financials,13602.22,-66.1,-8.3,-1.6,5794.0,,,31.6,,7.36,1.07,2.23,,
+NYSE:SYF,Synchrony Financial,Financials,14804.79,-27.4,-1.1,-3.2,9466.0,,,44.6,,4.48,1.34,1.96,,2.7
+NasdaqGS:SNPS,"Synopsys, Inc.",Information Technology,48665.29,-13.4,129.4,274.6,4504.13,80.9,21.7,20.2,-0.6x,55.34,9.08,10.84,18.0,
+NYSE:SYY,Sysco Corporation,Consumer Staples,38742.38,-0.3,-3.3,42.5,60738.23,17.9,3.5,1.3,3.6x,50.27,31.75,0.64,16.0,2.4
+NasdaqGS:TROW,"T. Rowe Price Group, Inc.",Financials,24371.07,-42.2,-0.2,22.2,7671.9,61.0,48.8,40.2,-0.3x,8.31,2.77,3.22,40.0,4.0
+NasdaqGS:TTWO,"Take-Two Interactive Software, Inc.",Communication Services,17475.01,-41.4,-14.9,-5.1,3414.23,60.8,19.9,15.4,-2.8x,23.08,3.28,3.52,20.0,
+NYSE:TPR,"Tapestry, Inc.",Consumer Discretionary,9175.81,-3.3,49.5,-1.3,6510.8,70.6,18.8,12.8,1.2x,12.9,3.43,1.62,22.0,1.3
+NYSE:TRGP,Targa Resources Corp.,Energy,16638.59,43.7,94.2,92.9,16949.8,19.0,7.8,0.4,2.9x,,8.34,0.99,10.0,0.9
+NYSE:TGT,Target Corporation,Consumer Discretionary,68604.62,-34.2,22.8,157.2,106005.0,29.3,8.5,6.6,0.9x,10.57,5.48,0.69,34.0,2.1
+NYSE:TEL,TE Connectivity Ltd.,Information Technology,36418.07,-27.7,26.0,32.3,16304.0,31.8,17.6,13.9,0.9x,15.6,3.4,2.48,17.0,1.9
+NYSE:TDY,Teledyne Technologies Incorporated,Information Technology,18744.22,-8.5,15.4,120.8,4614.3,42.2,18.3,9.7,3.1x,39.79,2.45,3.74,7.0,
+NYSE:TFX,Teleflex Incorporated,Health Care,11709.25,-23.6,-32.8,2.6,2809.56,55.3,20.3,17.3,1.9x,24.4,3.12,4.16,10.0,0.5
+NasdaqGS:TER,"Teradyne, Inc.",Information Technology,13605.3,-46.3,29.7,114.8,3702.88,59.6,32.7,27.4,-1.0x,15.8,5.53,3.89,63.0,0.5
+NasdaqGS:TSLA,"Tesla, Inc.",Consumer Discretionary,388971.95,-65.0,341.7,493.4,53823.0,25.3,12.1,10.3,-0.9x,75.4,12.64,6.77,24.0,
+NasdaqGS:TXN,Texas Instruments Incorporated,Information Technology,149949.0,-9.9,39.5,80.8,18344.0,67.5,48.6,42.4,-0.2x,20.0,11.45,8.31,49.0,2.6
+NYSE:TXT,Textron Inc.,Industrials,14781.02,-8.2,59.5,26.1,12382.0,16.7,8.1,6.0,1.6x,21.45,2.25,1.28,9.0,0.1
+NYSE:AES,The AES Corporation,Utilities,19210.24,21.7,57.5,211.2,11141.0,24.3,23.0,-3.7,4.9x,,9.72,1.72,9.0,2.1
+NYSE:ALL,The Allstate Corporation,Financials,35962.42,18.4,29.9,45.1,50588.0,27.6,13.8,3.2,0.9x,7.99,1.64,0.79,16.0,2.4
+NYSE:BK,The Bank of New York Mellon Corporation,Financials,36792.9,-19.1,-1.0,-3.3,16162.0,,,23.3,,11.0,0.96,2.4,,2.9
+NYSE:BA,The Boeing Company,Industrials,113528.84,-5.4,-41.2,-32.2,62286.0,8.6,-0.8,-6.7,26.5x,,,1.8,-1.0,
+NYSE:SCHW,The Charles Schwab Corporation,Financials,155424.72,0.1,82.2,72.9,18520.0,96.8,,31.6,,29.42,3.4,8.48,,0.9
+NYSE:CI,The Cigna Group,Health Care,101303.56,46.7,67.7,68.9,174274.0,13.3,4.8,3.1,2.9x,21.06,2.27,0.64,8.0,1.2
+NYSE:CLX,The Clorox Company,Consumer Staples,17314.59,-17.0,-1.2,7.6,7080.0,37.7,10.2,3.5,3.2x,71.14,55.13,2.46,16.0,3.3
+NYSE:KO,The Coca-Cola Company,Consumer Staples,275082.29,10.6,26.2,62.5,38655.0,60.3,29.6,25.3,2.5x,28.27,11.96,7.1,16.0,2.7
+NYSE:COO,"The Cooper Companies, Inc.",Health Care,16320.01,-21.1,3.0,51.9,3029.2,66.8,18.7,31.0,3.7x,17.56,2.35,5.38,5.0,0.0
+NYSE:EL,The Estée Lauder Companies Inc.,Consumer Staples,88528.71,-32.3,23.0,103.9,17731.0,76.3,19.7,18.4,0.8x,28.04,14.34,5.06,28.0,0.9
+NYSE:GS,"The Goldman Sachs Group, Inc.",Financials,120206.13,-7.9,59.7,49.2,58982.0,89.3,,36.7,,5.78,1.21,2.04,,1.9
+NYSE:HIG,"The Hartford Financial Services Group, Inc.",Financials,24121.44,12.3,34.5,51.7,22349.0,35.5,13.7,10.6,1.3x,11.45,1.45,1.18,4.0,1.9
+NYSE:HSY,The Hershey Company,Consumer Staples,47490.97,21.9,67.2,127.6,8971.34,45.2,22.9,16.5,2.1x,32.57,17.31,5.34,24.0,1.5
+NYSE:HD,"The Home Depot, Inc.",Consumer Discretionary,321920.1,-22.0,54.9,87.5,151157.0,33.6,15.2,10.9,1.7x,20.34,,2.2,51.0,2.2
+NYSE:IPG,"The Interpublic Group of Companies, Inc.",Communication Services,12941.76,-7.8,62.8,101.9,10240.7,32.1,14.2,9.3,0.9x,13.94,3.72,1.44,24.0,3.3
+NYSE:SJM,The J. M. Smucker Company,Consumer Staples,16898.02,20.1,66.4,48.0,7885.3,35.4,14.4,7.3,2.7x,29.87,2.08,2.18,8.0,2.5
+NasdaqGS:KHC,The Kraft Heinz Company,Consumer Staples,49866.91,18.2,45.2,-33.9,26042.0,33.4,21.0,3.9,3.0x,49.65,1.01,1.91,7.0,4.0
+NYSE:KR,The Kroger Co.,Consumer Staples,31911.34,0.4,63.4,80.0,137888.0,22.7,2.7,1.2,2.8x,20.54,3.43,0.24,12.0,1.8
+NYSE:MOS,The Mosaic Company,Materials,14936.9,12.8,108.9,78.3,12357.4,26.2,21.8,13.2,1.0x,10.27,1.53,1.34,15.0,0.6
+NYSE:PNC,"The PNC Financial Services Group, Inc.",Financials,63700.21,-18.6,9.4,27.9,19990.0,,,28.4,,12.44,1.31,3.37,,3.1
+NYSE:PG,The Procter & Gamble Company,Consumer Staples,359151.26,-5.0,30.6,89.0,78346.0,49.4,23.5,18.5,1.1x,26.81,8.3,4.71,22.0,2.3
+NYSE:PGR,The Progressive Corporation,Financials,75889.39,26.8,98.9,172.2,47676.5,9.8,9.3,7.0,1.0x,22.92,4.27,1.59,19.0,1.5
+NYSE:SHW,The Sherwin-Williams Company,Materials,61123.33,-32.0,25.3,81.4,19944.6,42.8,13.3,9.3,3.5x,34.0,25.29,3.12,16.0,0.9
+NYSE:SO,The Southern Company,Utilities,77670.72,8.2,26.7,85.0,23113.0,43.5,17.7,10.4,6.7x,31.88,2.72,3.28,3.0,3.7
+NYSE:TJX,"The TJX Companies, Inc.",Consumer Discretionary,91978.13,6.7,35.2,123.1,48549.98,35.2,9.3,6.8,1.2x,29.48,15.66,1.97,34.0,1.3
+NYSE:TRV,"The Travelers Companies, Inc.",Financials,43937.82,22.4,46.9,55.3,34816.0,27.2,13.8,10.5,1.2x,12.94,1.57,1.34,10.0,1.9
+NYSE:DIS,The Walt Disney Company,Communication Services,158433.67,-43.9,-39.9,-16.9,72988.0,34.3,7.5,4.2,3.8x,50.54,1.74,2.16,3.0,
+NYSE:WMB,"The Williams Companies, Inc.",Energy,40083.38,32.8,68.7,46.7,10775.0,48.2,24.5,14.1,4.9x,26.53,3.51,3.71,6.0,5.1
+NYSE:TMO,Thermo Fisher Scientific Inc.,Health Care,216998.34,-17.3,70.6,193.6,39211.0,50.1,26.5,19.7,2.5x,28.3,5.32,5.53,13.0,0.2
+NasdaqGS:TMUS,"T-Mobile US, Inc.",Communication Services,174181.58,20.7,78.9,120.8,80118.0,56.8,12.5,3.8,3.9x,58.09,2.53,2.18,5.0,
+NasdaqGS:TSCO,Tractor Supply Company,Consumer Discretionary,24850.92,-4.0,151.0,223.0,12731.11,35.2,10.3,7.8,1.9x,26.13,12.71,2.03,25.0,0.9
+NYSE:TT,Trane Technologies plc,Industrials,38712.35,-15.3,71.2,165.1,14136.4,31.6,14.3,10.1,1.4x,28.2,6.32,2.84,17.0,1.4
+NYSE:TDG,TransDigm Group Incorporated,Industrials,34236.96,1.8,15.6,164.1,4884.0,54.4,38.9,16.2,7.1x,50.24,,7.67,14.0,
+NasdaqGS:TRMB,Trimble Inc.,Information Technology,12469.34,-42.0,21.3,24.4,3659.1,58.0,16.2,13.5,1.5x,26.06,3.22,3.47,11.0,
+NYSE:TFC,Truist Financial Corporation,Financials,57090.75,-23.5,-14.3,3.4,23109.0,,,27.9,,9.63,0.91,2.49,,4.4
+NYSE:TYL,"Tyler Technologies, Inc.",Information Technology,13425.12,-40.1,7.5,82.1,1592.29,44.6,12.9,10.1,3.5x,84.4,5.73,8.27,6.0,
+NYSE:TSN,"Tyson Foods, Inc.",Consumer Staples,22274.68,-26.9,-26.5,-14.1,49522.0,14.8,10.4,7.5,1.0x,6.15,1.23,0.46,18.0,2.9
+NYSE:USB,U.S. Bancorp,Financials,66733.85,-19.1,-17.4,-3.3,23762.0,,,33.5,,8.55,1.33,2.73,,4.0
+NYSE:UDR,"UDR, Inc.",Real Estate,12608.23,-33.4,-8.3,18.5,1356.41,67.0,14.8,11.1,6.9x,80.69,3.63,8.91,2.0,3.8
+NasdaqGS:ULTA,"Ulta Beauty, Inc.",Consumer Discretionary,23866.64,13.8,85.3,109.7,8630.89,43.5,15.0,11.4,0.9x,26.09,15.98,2.96,42.0,
+NYSE:UNP,Union Pacific Corporation,Industrials,133120.27,-15.9,21.9,71.6,21804.0,58.2,42.7,29.9,2.6x,20.81,9.34,6.21,16.0,2.1
+NasdaqGS:UAL,"United Airlines Holdings, Inc.",Industrials,12325.18,-13.9,-57.2,-44.1,24634.0,13.3,-17.6,-8.0,-11.2x,,2.43,0.49,-12.0,
+NYSE:UPS,"United Parcel Service, Inc.",Industrials,150357.37,-16.2,61.9,70.0,97287.0,24.3,13.4,13.2,0.9x,11.84,10.61,1.56,29.0,2.4
+NYSE:URI,"United Rentals, Inc.",Industrials,24633.62,7.0,113.1,106.7,9716.0,40.0,23.9,14.3,3.9x,18.67,4.3,2.65,12.0,
+NYSE:UNH,UnitedHealth Group Incorporated,Health Care,495373.19,6.9,88.3,158.7,287597.0,24.2,8.3,6.0,0.9x,29.32,6.95,1.74,21.0,1.1
+NYSE:UHS,"Universal Health Services, Inc.",Health Care,10060.44,9.4,-0.4,27.0,12642.12,40.0,11.0,7.8,2.3x,11.92,1.78,0.92,13.0,0.6
+NYSE:VFC,V.F. Corporation,Consumer Discretionary,10728.31,-60.4,-69.3,-54.1,11599.85,55.0,13.7,12.0,2.7x,9.06,2.94,0.93,17.0,7.2
+NYSE:VLO,Valero Energy Corporation,Energy,48907.48,75.0,57.8,73.2,108332.0,5.1,2.1,0.9,2.4x,55.89,2.82,0.48,6.0,3.1
+NYSE:VTR,"Ventas, Inc.",Real Estate,18007.3,-8.5,-11.1,-4.9,3818.18,45.5,16.5,1.3,7.9x,,1.66,4.52,3.0,4.0
+NasdaqGS:VRSN,"VeriSign, Inc.",Information Technology,21780.02,-19.1,6.6,79.5,1327.6,85.5,65.3,59.1,0.6x,29.35,,17.33,126.0,
+NasdaqGS:VRSK,"Verisk Analytics, Inc.",Industrials,27589.96,-22.3,20.4,88.7,2462.5,65.3,42.6,27.1,2.7x,43.24,10.13,9.52,15.0,0.7
+NYSE:VZ,Verizon Communications Inc.,Communication Services,165472.81,-20.0,-26.2,-6.5,133613.0,57.9,27.4,16.5,3.3x,7.41,2.02,1.22,11.0,6.5
+NasdaqGS:VRTX,Vertex Pharmaceuticals Incorporated,Health Care,74127.36,31.5,31.9,92.7,7574.4,62.5,51.4,30.9,-1.6x,32.05,7.28,9.83,85.0,
+NasdaqGS:VTRS,Viatris Inc.,Health Care,13497.18,-14.3,-41.0,-72.0,17886.3,43.3,15.5,-7.1,3.8x,,0.66,0.75,6.0,4.1
+NYSE:VICI,VICI Properties Inc.,Real Estate,31204.37,13.0,48.3,104.7,1509.57,97.9,95.0,67.2,3.0x,18.41,1.68,12.12,9.0,4.3
+NYSE:V,Visa Inc.,Information Technology,427923.74,-3.4,12.8,88.3,25477.0,97.1,66.5,51.6,0.3x,34.42,13.1,17.3,33.0,0.7
+NYSE:VMC,Vulcan Materials Company,Materials,23273.32,-14.9,25.1,43.0,5552.2,24.9,17.2,12.1,3.1x,34.68,3.55,4.19,7.0,0.8
+NYSE:WRB,W. R. Berkley Corporation,Financials,19265.6,33.9,65.2,151.8,9455.47,42.6,15.0,10.8,1.2x,19.86,2.89,2.13,15.0,0.5
+NYSE:GWW,"W.W. Grainger, Inc.",Industrials,28106.9,8.7,72.1,156.0,13022.0,36.2,13.2,8.0,1.3x,28.04,15.2,2.22,35.0,1.2
+NasdaqGS:WBA,"Walgreens Boots Alliance, Inc.",Consumer Staples,32216.81,-25.1,-28.1,-38.4,132184.0,20.9,1.6,-2.2,8.6x,5.43,1.23,0.24,3.0,5.2
+NYSE:WMT,Walmart Inc.,Consumer Staples,382379.28,-0.5,25.2,57.3,572754.0,25.1,4.5,2.4,1.2x,29.11,4.7,0.69,19.0,1.6
+NasdaqGS:WBD,"Warner Bros. Discovery, Inc.",Communication Services,23021.19,-59.7,-71.0,-57.6,12191.0,62.1,17.0,8.3,3.2x,6.88,0.54,0.45,8.0,
+NYSE:WM,"Waste Management, Inc.",Industrials,64395.65,-4.5,44.9,99.0,17931.0,38.0,16.5,10.1,2.8x,36.57,9.16,3.68,12.0,1.5
+NYSE:WAT,Waters Corporation,Health Care,20351.85,-8.1,46.6,77.3,2785.87,58.5,29.7,24.9,1.1x,30.67,56.6,7.57,43.0,
+NYSE:WEC,"WEC Energy Group, Inc.",Utilities,29575.14,-0.5,10.9,63.9,8316.0,36.1,21.5,15.6,5.5x,22.81,2.71,3.56,5.0,2.9
+NYSE:WFC,Wells Fargo & Company,Financials,157335.17,-11.9,-17.2,-21.4,82606.0,,,26.1,,8.34,0.95,2.02,,1.5
+NYSE:WELL,Welltower Inc.,Real Estate,30973.78,-21.2,-10.6,26.9,4737.47,44.7,20.1,7.1,7.2x,83.99,1.66,5.87,3.0,3.8
+NYSE:WST,"West Pharmaceutical Services, Inc.",Health Care,17423.66,-49.7,57.7,142.9,2831.6,41.6,27.1,23.4,-0.5x,27.15,7.48,6.18,38.0,0.3
+NasdaqGS:WDC,Western Digital Corporation,Information Technology,10021.87,-51.6,-49.2,-56.8,15752.0,26.3,5.5,-0.6,3.2x,4.98,0.82,0.51,5.0,
+NYSE:WAB,Westinghouse Air Brake Technologies Corporation,Industrials,18152.23,9.1,30.8,26.4,7822.0,31.0,12.3,7.1,2.6x,33.72,1.82,2.4,6.0,0.5
+NYSE:WRK,WestRock Company,Materials,8948.85,-18.8,-11.8,-35.2,19296.8,18.2,7.8,4.5,3.0x,10.86,0.79,0.48,6.0,2.7
+NYSE:WY,Weyerhaeuser Company,Real Estate,22813.43,-20.4,14.1,7.2,10201.0,40.2,34.7,25.6,0.8x,8.93,2.15,2.28,24.0,2.3
+NYSE:WHR,Whirlpool Corporation,Consumer Discretionary,7706.51,-37.2,5.9,-0.9,21985.0,20.1,10.6,8.1,1.1x,4.99,1.72,0.4,26.0,3.9
+NasdaqGS:WTW,Willis Towers Watson Public Limited Company,Financials,26472.76,4.5,26.3,74.4,8998.0,45.0,19.4,46.9,0.3x,14.71,2.25,3.48,11.0,1.3
+NasdaqGS:WYNN,"Wynn Resorts, Limited",Consumer Discretionary,9270.61,-3.0,-40.1,-48.1,3763.66,54.1,-9.7,-20.1,28.6x,,,2.49,-4.0,
+NasdaqGS:XEL,Xcel Energy Inc.,Utilities,38367.59,6.4,19.8,67.8,13431.0,38.8,16.0,11.9,5.6x,23.69,2.44,2.81,4.0,2.6
+NYSE:XYL,Xylem Inc.,Industrials,19927.09,-6.6,45.4,72.1,5195.0,38.1,11.2,8.2,1.7x,47.05,6.2,3.84,10.0,1.0
+NYSE:YUM,"Yum! Brands, Inc.",Consumer Discretionary,36078.58,-6.0,34.3,71.5,6584.0,48.1,32.8,23.9,5.0x,24.58,,5.78,51.0,1.6
+NasdaqGS:ZBRA,Zebra Technologies Corporation,Information Technology,13238.4,-56.9,0.4,147.0,5627.0,46.7,18.0,14.9,0.7x,16.52,4.59,2.44,24.0,
+NYSE:ZBH,"Zimmer Biomet Holdings, Inc.",Health Care,26756.18,4.3,-10.2,13.2,6827.3,71.3,18.7,5.9,3.1x,66.75,2.1,3.39,6.0,0.8
+NasdaqGS:ZION,"Zions Bancorporation, National Association",Financials,7355.21,-20.0,3.5,10.9,3187.0,,,35.4,,7.24,1.06,2.47,,3.0
+NYSE:ZTS,Zoetis Inc.,Health Care,68302.85,-39.5,12.8,109.8,7776.0,70.5,36.1,26.2,1.0x,34.32,15.24,8.94,32.0,0.7
